@@ -32324,3 +32324,165 @@ request_date,language,gender,age,country_birth,nationality,temporary_protection_
 2022-05-20T00:00:00Z,ita,F,42,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,1
 2022-05-20T00:00:00Z,ita,F,50,UKR,UKR,ITI,Centro,ITI3,Marche,ITI33,Macerata,1
 2022-05-20T00:00:00Z,ukr,F,56,UKR,UKR,ITF,Sud,ITF3,Campania,ITF31,Caserta,1
+2022-05-20T06:00:00Z,ita,F,37,UKR,UKR,ITF,Sud,ITF3,Campania,ITF31,Caserta,1
+2022-05-20T07:00:00Z,ita,F,31,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,1
+2022-05-20T07:00:00Z,ita,F,37,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T07:00:00Z,ukr,F,33,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,1
+2022-05-20T07:00:00Z,ukr,F,42,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI1A,Grosseto,1
+2022-05-20T07:00:00Z,ukr,F,50,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T08:00:00Z,ita,F,28,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,1
+2022-05-20T08:00:00Z,ita,F,67,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH43,Gorizia,1
+2022-05-20T08:00:00Z,ukr,F,37,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1
+2022-05-20T08:00:00Z,ukr,F,40,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,1
+2022-05-20T08:00:00Z,ukr,F,43,UKR,UKR,ITG,Isole,ITG1,Sicilia,ITG12,Palermo,1
+2022-05-20T08:00:00Z,ukr,M,43,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1
+2022-05-20T09:00:00Z,eng,M,39,UKR,UKR,ITF,Sud,ITF3,Campania,ITF31,Caserta,1
+2022-05-20T09:00:00Z,ita,F,25,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,1
+2022-05-20T09:00:00Z,ita,F,30,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,1
+2022-05-20T09:00:00Z,ita,F,32,XXA,UKR,ITC,Nord-ovest,ITC2,Valle d'Aosta,ITC20,Aosta,1
+2022-05-20T09:00:00Z,ita,F,33,UKR,UKR,ITI,Centro,ITI2,Umbria,ITI21,Perugia,1
+2022-05-20T09:00:00Z,ita,F,37,UKR,UKR,ITF,Sud,ITF4,Puglia,ITF46,Foggia,1
+2022-05-20T09:00:00Z,ita,F,37,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH31,Verona,1
+2022-05-20T09:00:00Z,ukr,F,24,UKR,UKR,ITF,Sud,ITF4,Puglia,ITF45,Lecce,1
+2022-05-20T09:00:00Z,ukr,F,33,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,1
+2022-05-20T09:00:00Z,ukr,F,36,UKR,UKR,ITF,Sud,ITF4,Puglia,ITF47,Bari,1
+2022-05-20T09:00:00Z,ukr,F,37,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T09:00:00Z,ukr,F,38,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,1
+2022-05-20T09:00:00Z,ukr,F,56,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,1
+2022-05-20T09:00:00Z,ukr,M,65,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI17,Pisa,1
+2022-05-20T10:00:00Z,ita,F,20,UKR,UKR,ITH,Nord-est,ITH2,P.A. Trento,ITH20,P.A. Trento,1
+2022-05-20T10:00:00Z,ita,F,30,UKR,UKR,ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,1
+2022-05-20T10:00:00Z,ita,F,32,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1
+2022-05-20T10:00:00Z,ita,F,33,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH56,Ferrara,1
+2022-05-20T10:00:00Z,ita,F,35,UKR,UKR,ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1
+2022-05-20T10:00:00Z,ita,F,35,UKR,UKR,ITI,Centro,ITI2,Umbria,ITI21,Perugia,1
+2022-05-20T10:00:00Z,ita,F,37,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,1
+2022-05-20T10:00:00Z,ita,F,39,UKR,UKR,ITH,Nord-est,ITH1,P.A. Bolzano,ITH10,P.A. Bolzano,1
+2022-05-20T10:00:00Z,ita,F,40,UKR,UKR,ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,1
+2022-05-20T10:00:00Z,ita,F,44,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH56,Ferrara,1
+2022-05-20T10:00:00Z,ita,F,57,UKR,UKR,ITH,Nord-est,ITH2,P.A. Trento,ITH20,P.A. Trento,1
+2022-05-20T10:00:00Z,ita,M,34,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,1
+2022-05-20T10:00:00Z,ita,M,37,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,1
+2022-05-20T10:00:00Z,ita,M,60,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI14,Firenze,1
+2022-05-20T10:00:00Z,ukr,F,27,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T10:00:00Z,ukr,F,33,UKR,UKR,ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,1
+2022-05-20T10:00:00Z,ukr,F,36,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH44,Trieste,1
+2022-05-20T10:00:00Z,ukr,F,38,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,1
+2022-05-20T10:00:00Z,ukr,F,42,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI45,Frosinone,1
+2022-05-20T10:00:00Z,ukr,F,48,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI12,Lucca,1
+2022-05-20T10:00:00Z,ukr,F,59,UKR,UKR,ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,1
+2022-05-20T10:00:00Z,ukr,M,28,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI12,Lucca,1
+2022-05-20T11:00:00Z,ita,F,20,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,1
+2022-05-20T11:00:00Z,ita,F,20,UKR,UKR,ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,1
+2022-05-20T11:00:00Z,ita,F,24,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,1
+2022-05-20T11:00:00Z,ita,F,24,UKR,UKR,ITI,Centro,ITI2,Umbria,ITI21,Perugia,1
+2022-05-20T11:00:00Z,ita,F,25,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,1
+2022-05-20T11:00:00Z,ita,F,33,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,1
+2022-05-20T11:00:00Z,ita,F,34,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,1
+2022-05-20T11:00:00Z,ita,F,35,UKR,UKR,ITF,Sud,ITF3,Campania,ITF31,Caserta,1
+2022-05-20T11:00:00Z,ita,F,36,UKR,UKR,ITI,Centro,ITI2,Umbria,ITI21,Perugia,1
+2022-05-20T11:00:00Z,ita,F,37,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI45,Frosinone,1
+2022-05-20T11:00:00Z,ita,F,40,UKR,UKR,ITH,Nord-est,ITH1,P.A. Bolzano,ITH10,P.A. Bolzano,1
+2022-05-20T11:00:00Z,ita,F,41,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,1
+2022-05-20T11:00:00Z,ita,F,41,UKR,UKR,ITH,Nord-est,ITH1,P.A. Bolzano,ITH10,P.A. Bolzano,1
+2022-05-20T11:00:00Z,ita,F,46,UKR,UKR,ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,1
+2022-05-20T11:00:00Z,ita,F,50,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,1
+2022-05-20T11:00:00Z,ita,F,58,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,1
+2022-05-20T11:00:00Z,ita,F,62,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,1
+2022-05-20T11:00:00Z,ita,F,78,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T11:00:00Z,ita,M,29,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,1
+2022-05-20T11:00:00Z,ita,M,60,UKR,UKR,ITF,Sud,ITF4,Puglia,ITF45,Lecce,1
+2022-05-20T11:00:00Z,ita,M,62,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI19,Siena,1
+2022-05-20T11:00:00Z,ukr,F,18,UKR,UKR,ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,1
+2022-05-20T11:00:00Z,ukr,F,23,UKR,UKR,ITF,Sud,ITF4,Puglia,ITF45,Lecce,1
+2022-05-20T11:00:00Z,ukr,F,24,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T11:00:00Z,ukr,F,25,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH31,Verona,1
+2022-05-20T11:00:00Z,ukr,F,29,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH31,Verona,1
+2022-05-20T11:00:00Z,ukr,F,30,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,1
+2022-05-20T11:00:00Z,ukr,F,33,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,1
+2022-05-20T11:00:00Z,ukr,F,40,UKR,UKR,ITG,Isole,ITG2,Sardegna,ITG2F,Cagliari,1
+2022-05-20T11:00:00Z,ukr,F,46,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T11:00:00Z,ukr,F,47,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH31,Verona,1
+2022-05-20T11:00:00Z,ukr,F,53,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,1
+2022-05-20T11:00:00Z,ukr,F,70,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T12:00:00Z,ita,F,26,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,1
+2022-05-20T12:00:00Z,ita,F,29,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,1
+2022-05-20T12:00:00Z,ita,F,31,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI1A,Grosseto,1
+2022-05-20T12:00:00Z,ita,F,33,UKR,UKR,ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,1
+2022-05-20T12:00:00Z,ita,F,33,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,1
+2022-05-20T12:00:00Z,ita,F,49,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,1
+2022-05-20T12:00:00Z,ita,F,69,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,1
+2022-05-20T12:00:00Z,ita,M,22,UKR,UKR,ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1
+2022-05-20T12:00:00Z,ita,M,68,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH33,Belluno,1
+2022-05-20T12:00:00Z,ukr,F,18,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH41,Pordenone,1
+2022-05-20T12:00:00Z,ukr,F,35,UKR,UKR,ITF,Sud,ITF5,Basilicata,ITF52,Matera,1
+2022-05-20T12:00:00Z,ukr,F,36,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,1
+2022-05-20T12:00:00Z,ukr,F,38,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T12:00:00Z,ukr,F,38,UKR,UKR,ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,1
+2022-05-20T12:00:00Z,ukr,F,40,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,1
+2022-05-20T12:00:00Z,ukr,F,40,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,1
+2022-05-20T12:00:00Z,ukr,F,43,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,1
+2022-05-20T12:00:00Z,ukr,F,69,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,1
+2022-05-20T12:00:00Z,ukr,F,71,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI12,Lucca,1
+2022-05-20T12:00:00Z,ukr,M,39,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH31,Verona,1
+2022-05-20T13:00:00Z,ita,F,26,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T13:00:00Z,ita,F,29,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,1
+2022-05-20T13:00:00Z,ita,F,31,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,1
+2022-05-20T13:00:00Z,ita,F,32,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T13:00:00Z,ita,F,33,MDA,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,1
+2022-05-20T13:00:00Z,ita,F,46,UKR,UKR,ITG,Isole,ITG1,Sicilia,ITG13,Messina,1
+2022-05-20T13:00:00Z,ita,F,58,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH31,Verona,1
+2022-05-20T13:00:00Z,ita,F,64,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH33,Belluno,1
+2022-05-20T13:00:00Z,ita,F,71,UKR,UKR,ITC,Nord-ovest,ITC3,Liguria,ITC34,La Spezia,1
+2022-05-20T13:00:00Z,ukr,F,22,UKR,UKR,ITG,Isole,ITG1,Sicilia,ITG12,Palermo,1
+2022-05-20T13:00:00Z,ukr,F,34,UKR,UKR,ITF,Sud,ITF4,Puglia,ITF44,Brindisi,1
+2022-05-20T13:00:00Z,ukr,F,34,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH41,Pordenone,1
+2022-05-20T13:00:00Z,ukr,F,35,UKR,UKR,ITF,Sud,ITF3,Campania,ITF31,Caserta,1
+2022-05-20T13:00:00Z,ukr,F,41,UKR,UKR,ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,1
+2022-05-20T13:00:00Z,ukr,F,42,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,1
+2022-05-20T13:00:00Z,ukr,F,42,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,1
+2022-05-20T13:00:00Z,ukr,F,70,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,1
+2022-05-20T13:00:00Z,ukr,M,37,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,1
+2022-05-20T14:00:00Z,ita,F,28,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1
+2022-05-20T14:00:00Z,ita,F,29,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,1
+2022-05-20T14:00:00Z,ita,F,34,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,1
+2022-05-20T14:00:00Z,ita,F,34,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI12,Lucca,1
+2022-05-20T14:00:00Z,ita,F,35,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,1
+2022-05-20T14:00:00Z,ita,F,36,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH41,Pordenone,1
+2022-05-20T14:00:00Z,ita,F,49,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH44,Trieste,1
+2022-05-20T14:00:00Z,ita,F,52,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI12,Lucca,1
+2022-05-20T14:00:00Z,ita,F,58,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,1
+2022-05-20T14:00:00Z,ita,M,29,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1
+2022-05-20T14:00:00Z,ita,M,43,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH41,Pordenone,1
+2022-05-20T14:00:00Z,ita,M,61,UKR,UKR,ITF,Sud,ITF6,Calabria,ITF61,Cosenza,1
+2022-05-20T14:00:00Z,ukr,F,18,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,1
+2022-05-20T14:00:00Z,ukr,F,23,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T14:00:00Z,ukr,F,32,UKR,UKR,ITF,Sud,ITF3,Campania,ITF31,Caserta,1
+2022-05-20T14:00:00Z,ukr,F,33,RUS,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,1
+2022-05-20T14:00:00Z,ukr,F,35,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI1A,Grosseto,1
+2022-05-20T14:00:00Z,ukr,F,38,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,1
+2022-05-20T14:00:00Z,ukr,F,38,UKR,UKR,ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1
+2022-05-20T14:00:00Z,ukr,F,40,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T14:00:00Z,ukr,F,62,UKR,UKR,ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,1
+2022-05-20T14:00:00Z,ukr,F,66,UKR,UKR,ITF,Sud,ITF6,Calabria,ITF61,Cosenza,1
+2022-05-20T14:00:00Z,ukr,F,75,UKR,UKR,ITF,Sud,ITF4,Puglia,ITF47,Bari,1
+2022-05-20T14:00:00Z,ukr,M,38,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T15:00:00Z,ita,F,30,UKR,UKR,ITH,Nord-est,ITH3,Veneto,ITH36,Padova,1
+2022-05-20T15:00:00Z,ita,F,34,UKR,UKR,ITF,Sud,ITF6,Calabria,ITF61,Cosenza,1
+2022-05-20T15:00:00Z,ita,F,36,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,1
+2022-05-20T15:00:00Z,ita,F,42,UKR,UKR,ITC,Nord-ovest,ITC4,Lombardia,ITC4A,Cremona,1
+2022-05-20T15:00:00Z,ita,F,44,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1
+2022-05-20T15:00:00Z,ita,F,44,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,1
+2022-05-20T15:00:00Z,ita,F,67,RUS,UKR,ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,1
+2022-05-20T15:00:00Z,ita,F,70,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,1
+2022-05-20T15:00:00Z,ita,F,73,UKR,UKR,ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1
+2022-05-20T15:00:00Z,ukr,F,30,UKR,UKR,ITI,Centro,ITI2,Umbria,ITI21,Perugia,1
+2022-05-20T15:00:00Z,ukr,F,32,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T15:00:00Z,ukr,F,33,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T15:00:00Z,ukr,F,37,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,1
+2022-05-20T15:00:00Z,ukr,F,39,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,1
+2022-05-20T15:00:00Z,ukr,F,67,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T15:00:00Z,ukr,M,64,UKR,UKR,ITI,Centro,ITI4,Lazio,ITI43,Roma,1
+2022-05-20T16:00:00Z,ita,F,44,UKR,UKR,ITF,Sud,ITF3,Campania,ITF33,Napoli,1
+2022-05-20T16:00:00Z,ukr,F,45,UKR,UKR,ITI,Centro,ITI1,Toscana,ITI12,Lucca,1
+2022-05-20T16:00:00Z,ukr,M,40,UKR,UKR,ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,1
