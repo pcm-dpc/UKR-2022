@@ -36,8 +36,7 @@ I dati si riferiscono al giorno precedente / The data refer to the previous day
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
-|**update**|Data e ora di aggiornamento<br>Update datetime|Datetime<br>YYYY-MM-DDTHH:MM:SSZ<br>ISO 8601|2023-04-14T15:00:00Z|
-|**date**|Data della missione di aiuto umanitario<br>Date of the humanitarian aid mission|Date<br>YYYY-MM-DD<br>ISO 8601|2022-04-14|
+|**date**|Data e ora di aggiornamento<br>Update datetime|Datetime<br>YYYY-MM-DDTHH:MM:SSZ<br>ISO 8601|2023-04-14T15:00:00Z|
 |**border_patrol_women**|Numero di donne (Polizia di frontiera)<br>Number of women (Border Patrol)|Number|0|
 |**border_patrol_men**|Numero di uomini (Polizia di frontiera)<br>Number of men (Border Patrol)|Number|0|
 |**border_patrol_minors**|Numero di bambini (Polizia di frontiera)<br>Number of children (Border Patrol)|Number|0|
