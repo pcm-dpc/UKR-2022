@@ -1,0 +1,475 @@
+nuts_1,area,nuts_2,region,nuts_3,province,proposing_subject,facility_type,places
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,Comunità Papa Giovanni XXIII,Altra tipologia,4
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,Gea cooperativa sociale,Altra tipologia,21
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,Fondazione AVSI,Appartamento,8
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,Gea cooperativa sociale,Appartamento,24
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,Liberitutti - Società Cooperativa Sociale Spa,Appartamento,305
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,Comunità Papa Giovanni XXIII,Famiglia,7
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,Fondazione AVSI,Famiglia,7
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,Gea cooperativa sociale,Famiglia,12
+ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,Cooperativa Sociale Desy,Appartamento,27
+ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,Comunità Papa Giovanni XXIII,Altra tipologia,14
+ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,Fondazione CARITAS Italiana,Appartamento,18
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,Comunità Papa Giovanni XXIII,Altra tipologia,65
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,Gea cooperativa sociale,Appartamento,6
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,Liberitutti - Società Cooperativa Sociale Spa,Appartamento,248
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,ARCI Aps,Famiglia,40
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,Comunità Papa Giovanni XXIII,Famiglia,9
+ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,Fondazione CARITAS Italiana,Altra tipologia,2
+ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,Fondazione CARITAS Italiana,Appartamento,37
+ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,Comunità Papa Giovanni XXIII,Famiglia,6
+ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,ANAS Nazionale,Altra tipologia,15
+ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,Comunità Papa Giovanni XXIII,Altra tipologia,8
+ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,Fondazione CARITAS Italiana,Altra tipologia,8
+ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,Fondazione CARITAS Italiana,Appartamento,14
+ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,ARCI Aps,Famiglia,10
+ITC,Nord-ovest,ITC2,Valle d'Aosta,ITC20,Aosta,Liberitutti - Società Cooperativa Sociale Spa,Appartamento,50
+ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,ARCI Aps,Altra tipologia,15
+ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,ARCI Aps,Appartamento,18
+ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,ARCI Aps,Appartamento,14
+ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,Comunità Papa Giovanni XXIII,Altra tipologia,4
+ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,ARCI Aps,Appartamento,23
+ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,ARCI Aps,Famiglia,2
+ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,Fondazione AVSI,Famiglia,25
+ITC,Nord-ovest,ITC3,Liguria,ITC34,La Spezia,Fondazione AVSI,Appartamento,10
+ITC,Nord-ovest,ITC3,Liguria,ITC34,La Spezia,Fondazione AVSI,Famiglia,10
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Altra tipologia,15
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,Comunità Papa Giovanni XXIII,Altra tipologia,2
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,Fondazione CARITAS Italiana,Appartamento,81
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,ARCI Aps,Famiglia,25
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,Comunità Papa Giovanni XXIII,Famiglia,1
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Altra tipologia,15
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,Comunità Papa Giovanni XXIII,Altra tipologia,15
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,Fondazione CARITAS Italiana,Altra tipologia,20
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,Fondazione CARITAS Italiana,Appartamento,29
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Famiglia,4
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,Comunità Papa Giovanni XXIII,Famiglia,2
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Altra tipologia,30
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,Fondazione CARITAS Italiana,Altra tipologia,40
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Appartamento,65
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,Fondazione CARITAS Italiana,Appartamento,27
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Famiglia,123
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,Comunità Papa Giovanni XXIII,Famiglia,3
+ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Appartamento,51
+ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Famiglia,9
+ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,FOCSIV Volontari nel mondo,Altra tipologia,15
+ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,ARCI Aps,Appartamento,12
+ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,FOCSIV Volontari nel mondo,Appartamento,14
+ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,ARCI Aps,Famiglia,50
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,Fondazione CARITAS Italiana,Altra tipologia,12
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,Fondazione CARITAS Italiana,Appartamento,84
+ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,ARCI Aps,Appartamento,10
+ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,Cooperativa Sociale Desy,Appartamento,65
+ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,ARCI Aps,Famiglia,40
+ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,Tertium Millennium Società Cooperativa Sociale,Famiglia,4
+ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,Gea cooperativa sociale,Appartamento,6
+ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,Comunità Papa Giovanni XXIII,Famiglia,2
+ITC,Nord-ovest,ITC4,Lombardia,ITC4A,Cremona,Comunità Papa Giovanni XXIII,Altra tipologia,4
+ITC,Nord-ovest,ITC4,Lombardia,ITC4A,Cremona,Fondazione CARITAS Italiana,Altra tipologia,15
+ITC,Nord-ovest,ITC4,Lombardia,ITC4A,Cremona,Comunità Papa Giovanni XXIII,Famiglia,2
+ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,ANAS Nazionale,Appartamento,12
+ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,ARCI Aps,Famiglia,10
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,ANAS Nazionale,Altra tipologia,27
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,Apeiron Cooperativa Sociale,Appartamento,25
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,ARCI Aps,Appartamento,6
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Appartamento,15
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,Fondazione AVSI,Appartamento,40
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,Fondazione CARITAS Italiana,Appartamento,35
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,ANAS Nazionale,Famiglia,3
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,ARCI Aps,Famiglia,395
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Famiglia,2
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,Comunità Papa Giovanni XXIII,Famiglia,11
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,Fondazione AVSI,Famiglia,150
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,ANAS Nazionale,Altra tipologia,15
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Altra tipologia,31
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Appartamento,73
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,Fondazione CARITAS Italiana,Appartamento,39
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,Gea cooperativa sociale,Appartamento,12
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,Associazione Centro di Servizio per il Volontariato di Monza Lecco Sondrio E.T.S.,Famiglia,89
+ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,ARCI Aps,Famiglia,27
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,Fondazione CARITAS Italiana,Altra tipologia,25
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,ARCI Aps,Appartamento,64
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,Fondazione CARITAS Italiana,Appartamento,21
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,ARCI Aps,Famiglia,4
+ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,ARCI Aps,Altra tipologia,8
+ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,ARCI Aps,Appartamento,12
+ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,ARCI Aps,Famiglia,5
+ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,Comunità Papa Giovanni XXIII,Altra tipologia,10
+ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,ARCI Aps,Appartamento,16
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,Comunità Papa Giovanni XXIII,Altra tipologia,6
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,Fondazione CARITAS Italiana,Altra tipologia,12
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,ARCI Aps,Appartamento,12
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,Associazione San Marco ONLUS,Appartamento,32
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,Fondazione CARITAS Italiana,Appartamento,8
+ITF,Sud,ITF3,Campania,ITF31,Caserta,Apeiron Cooperativa Sociale,Altra tipologia,70
+ITF,Sud,ITF3,Campania,ITF31,Caserta,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Altra tipologia,10
+ITF,Sud,ITF3,Campania,ITF31,Caserta,Fondazione CARITAS Italiana,Altra tipologia,42
+ITF,Sud,ITF3,Campania,ITF31,Caserta,Società Cooperativa Sociale Esculapio,Altra tipologia,24
+ITF,Sud,ITF3,Campania,ITF31,Caserta,Apeiron Cooperativa Sociale,Appartamento,285
+ITF,Sud,ITF3,Campania,ITF31,Caserta,ARCI Aps,Appartamento,12
+ITF,Sud,ITF3,Campania,ITF31,Caserta,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Appartamento,94
+ITF,Sud,ITF3,Campania,ITF31,Caserta,Fondazione CARITAS Italiana,Appartamento,55
+ITF,Sud,ITF3,Campania,ITF31,Caserta,Società Cooperativa Sociale Esculapio,Appartamento,222
+ITF,Sud,ITF3,Campania,ITF31,Caserta,Apeiron Cooperativa Sociale,Famiglia,10
+ITF,Sud,ITF3,Campania,ITF31,Caserta,ARCI Aps,Famiglia,12
+ITF,Sud,ITF3,Campania,ITF31,Caserta,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Famiglia,52
+ITF,Sud,ITF3,Campania,ITF32,Benevento,Associazione San Marco ONLUS,Appartamento,87
+ITF,Sud,ITF3,Campania,ITF32,Benevento,Fondazione CARITAS Italiana,Appartamento,6
+ITF,Sud,ITF3,Campania,ITF32,Benevento,Gea cooperativa sociale,Appartamento,30
+ITF,Sud,ITF3,Campania,ITF32,Benevento,Società Cooperativa Sociale Esculapio,Appartamento,114
+ITF,Sud,ITF3,Campania,ITF32,Benevento,Fondazione CARITAS Italiana,Famiglia,2
+ITF,Sud,ITF3,Campania,ITF32,Benevento,Gea cooperativa sociale,Famiglia,10
+ITF,Sud,ITF3,Campania,ITF32,Benevento,Tertium Millennium Società Cooperativa Sociale,Famiglia,5
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Apeiron Cooperativa Sociale,Altra tipologia,126
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Centro Educativo Diocesano Regina Pacis,Altra tipologia,10
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Fondazione CARITAS Italiana,Altra tipologia,2
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Apeiron Cooperativa Sociale,Appartamento,70
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Centro Educativo Diocesano Regina Pacis,Appartamento,290
+ITF,Sud,ITF3,Campania,ITF33,Napoli,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Appartamento,27
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Comunità Papa Giovanni XXIII,Appartamento,3
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Fondazione CARITAS Italiana,Appartamento,23
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Tertium Millennium Società Cooperativa Sociale,Appartamento,20
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Apeiron Cooperativa Sociale,Famiglia,20
+ITF,Sud,ITF3,Campania,ITF33,Napoli,ARCI Aps,Famiglia,30
+ITF,Sud,ITF3,Campania,ITF33,Napoli,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Famiglia,20
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Comunità Papa Giovanni XXIII,Famiglia,2
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Gea cooperativa sociale,Famiglia,1
+ITF,Sud,ITF3,Campania,ITF33,Napoli,Tertium Millennium Società Cooperativa Sociale,Famiglia,2
+ITF,Sud,ITF3,Campania,ITF34,Avellino,Apeiron Cooperativa Sociale,Altra tipologia,60
+ITF,Sud,ITF3,Campania,ITF34,Avellino,Cooperativa Sociale Desy,Altra tipologia,15
+ITF,Sud,ITF3,Campania,ITF34,Avellino,Fondazione CARITAS Italiana,Altra tipologia,25
+ITF,Sud,ITF3,Campania,ITF34,Avellino,Apeiron Cooperativa Sociale,Appartamento,40
+ITF,Sud,ITF3,Campania,ITF34,Avellino,Comunità Papa Giovanni XXIII,Appartamento,3
+ITF,Sud,ITF3,Campania,ITF34,Avellino,Cooperativa Sociale Desy,Appartamento,40
+ITF,Sud,ITF3,Campania,ITF34,Avellino,Fondazione CARITAS Italiana,Appartamento,8
+ITF,Sud,ITF3,Campania,ITF34,Avellino,UMANA Solidarietà S.C.S,Appartamento,20
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Apeiron Cooperativa Sociale,Altra tipologia,15
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Communication Centre Multilingue Società Cooperativa Sociale,Altra tipologia,85
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Comunità Papa Giovanni XXIII,Altra tipologia,3
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Cooperativa Sociale Desy,Altra tipologia,38
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Fondazione CARITAS Italiana,Altra tipologia,15
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Tertium Millennium Società Cooperativa Sociale,Altra tipologia,15
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Apeiron Cooperativa Sociale,Appartamento,90
+ITF,Sud,ITF3,Campania,ITF35,Salerno,ARCI Aps,Appartamento,60
+ITF,Sud,ITF3,Campania,ITF35,Salerno,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Appartamento,6
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Communication Centre Multilingue Società Cooperativa Sociale,Appartamento,226
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Cooperativa Sociale Desy,Appartamento,41
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Fondazione CARITAS Italiana,Appartamento,70
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Gea cooperativa sociale,Appartamento,38
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Tertium Millennium Società Cooperativa Sociale,Appartamento,374
+ITF,Sud,ITF3,Campania,ITF35,Salerno,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Famiglia,4
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Gea cooperativa sociale,Famiglia,33
+ITF,Sud,ITF3,Campania,ITF35,Salerno,Tertium Millennium Società Cooperativa Sociale,Famiglia,68
+ITF,Sud,ITF4,Puglia,ITF43,Taranto,ARCI Aps,Appartamento,18
+ITF,Sud,ITF4,Puglia,ITF43,Taranto,Fondazione CARITAS Italiana,Appartamento,9
+ITF,Sud,ITF4,Puglia,ITF43,Taranto,Indaco Service Soc. Coop. Soc.,Appartamento,50
+ITF,Sud,ITF4,Puglia,ITF43,Taranto,ARCI Aps,Famiglia,9
+ITF,Sud,ITF4,Puglia,ITF44,Brindisi,Indaco Service Soc. Coop. Soc.,Altra tipologia,250
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,ARCI Aps,Altra tipologia,30
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,Comunità Papa Giovanni XXIII,Altra tipologia,2
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,Fondazione CARITAS Italiana,Altra tipologia,59
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,ANAS Nazionale,Appartamento,4
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,ARCI Aps,Appartamento,5
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,Fondazione CARITAS Italiana,Appartamento,107
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,Gea cooperativa sociale,Appartamento,15
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,UMANA Solidarietà S.C.S,Appartamento,70
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,Fondazione CARITAS Italiana,Famiglia,60
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,Gea cooperativa sociale,Famiglia,15
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,Comunità Papa Giovanni XXIII,Altra tipologia,15
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,Anolf Puglia APS,Appartamento,310
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,ARCI Aps,Appartamento,39
+ITF,Sud,ITF4,Puglia,ITF47,Bari,Comunità Papa Giovanni XXIII,Altra tipologia,1
+ITF,Sud,ITF4,Puglia,ITF47,Bari,ANAS Nazionale,Appartamento,6
+ITF,Sud,ITF4,Puglia,ITF47,Bari,ARCI Aps,Appartamento,10
+ITF,Sud,ITF4,Puglia,ITF47,Bari,Comunità Papa Giovanni XXIII,Appartamento,20
+ITF,Sud,ITF4,Puglia,ITF47,Bari,ANAS Nazionale,Famiglia,31
+ITF,Sud,ITF4,Puglia,ITF47,Bari,ARCI Aps,Famiglia,40
+ITF,Sud,ITF4,Puglia,ITF47,Bari,Comunità Papa Giovanni XXIII,Famiglia,2
+ITF,Sud,ITF4,Puglia,ITF48,Barletta-Andria-Trani,Comunità Papa Giovanni XXIII,Altra tipologia,9
+ITF,Sud,ITF4,Puglia,ITF48,Barletta-Andria-Trani,Gea cooperativa sociale,Appartamento,8
+ITF,Sud,ITF5,Basilicata,ITF51,Potenza,ARCI Aps,Appartamento,189
+ITF,Sud,ITF5,Basilicata,ITF51,Potenza,Associazione San Marco ONLUS,Appartamento,66
+ITF,Sud,ITF5,Basilicata,ITF52,Matera,Associazione San Marco ONLUS,Appartamento,80
+ITF,Sud,ITF5,Basilicata,ITF52,Matera,Fondazione CARITAS Italiana,Appartamento,120
+ITF,Sud,ITF5,Basilicata,ITF52,Matera,ANAS Nazionale,Famiglia,15
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,ANAS Nazionale,Altra tipologia,15
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,Comunità Papa Giovanni XXIII,Altra tipologia,21
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,CSV Cosenza,Altra tipologia,161
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,Dedalo Società Cooperativa,Altra tipologia,15
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,ANAS Nazionale,Appartamento,19
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Appartamento,30
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,Comunità Papa Giovanni XXIII,Appartamento,4
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,CSV Cosenza,Appartamento,61
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,Dedalo Società Cooperativa,Appartamento,39
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,FOCSIV Volontari nel mondo,Appartamento,20
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,IRIDE Società Cooperativa Sociale,Appartamento,10
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Famiglia,12
+ITF,Sud,ITF6,Calabria,ITF61,Cosenza,Comunità Papa Giovanni XXIII,Famiglia,2
+ITF,Sud,ITF6,Calabria,ITF62,Crotone,CSV Cosenza,Altra tipologia,10
+ITF,Sud,ITF6,Calabria,ITF62,Crotone,CSV Cosenza,Appartamento,60
+ITF,Sud,ITF6,Calabria,ITF62,Crotone,CSV Cosenza,Famiglia,36
+ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,CSV Cosenza,Altra tipologia,35
+ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,Dedalo Società Cooperativa,Altra tipologia,20
+ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,Dedalo Società Cooperativa,Appartamento,80
+ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,Fondazione CARITAS Italiana,Appartamento,17
+ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,IRIDE Società Cooperativa Sociale,Appartamento,65
+ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,Comunità Papa Giovanni XXIII,Famiglia,3
+ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,Gea cooperativa sociale,Famiglia,1
+ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,ANAS Nazionale,Appartamento,45
+ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,Comunità Papa Giovanni XXIII,Appartamento,4
+ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,IRIDE Società Cooperativa Sociale,Appartamento,140
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,ANAS Nazionale,Altra tipologia,23
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,ARCI Aps,Altra tipologia,30
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,CSV Cosenza,Altra tipologia,13
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,Dedalo Società Cooperativa,Altra tipologia,15
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,Fondazione CARITAS Italiana,Altra tipologia,38
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,ANAS Nazionale,Appartamento,30
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,ARCI Aps,Appartamento,131
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,CSV Cosenza,Appartamento,15
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,Dedalo Società Cooperativa,Appartamento,206
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,Fondazione CARITAS Italiana,Appartamento,40
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,IRIDE Società Cooperativa Sociale,Appartamento,65
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,ARCI Aps,Famiglia,7
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,CSV Cosenza,Famiglia,4
+ITF,Sud,ITF6,Calabria,ITF65,Reggio Calabria,Tertium Millennium Società Cooperativa Sociale,Famiglia,8
+ITG,Isole,ITG1,Sicilia,ITG11,Trapani,ANAS Nazionale,Altra tipologia,18
+ITG,Isole,ITG1,Sicilia,ITG11,Trapani,Associazione San Marco ONLUS,Appartamento,45
+ITG,Isole,ITG1,Sicilia,ITG11,Trapani,Comunità Papa Giovanni XXIII,Appartamento,4
+ITG,Isole,ITG1,Sicilia,ITG11,Trapani,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Appartamento,11
+ITG,Isole,ITG1,Sicilia,ITG11,Trapani,FOCSIV Volontari nel mondo,Appartamento,45
+ITG,Isole,ITG1,Sicilia,ITG11,Trapani,UMANA Solidarietà S.C.S,Appartamento,20
+ITG,Isole,ITG1,Sicilia,ITG11,Trapani,Comunità Papa Giovanni XXIII,Famiglia,4
+ITG,Isole,ITG1,Sicilia,ITG11,Trapani,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Famiglia,11
+ITG,Isole,ITG1,Sicilia,ITG12,Palermo,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Appartamento,24
+ITG,Isole,ITG1,Sicilia,ITG12,Palermo,UMANA Solidarietà S.C.S,Appartamento,45
+ITG,Isole,ITG1,Sicilia,ITG12,Palermo,ARCI Aps,Famiglia,10
+ITG,Isole,ITG1,Sicilia,ITG12,Palermo,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Famiglia,38
+ITG,Isole,ITG1,Sicilia,ITG12,Palermo,Gea cooperativa sociale,Famiglia,1
+ITG,Isole,ITG1,Sicilia,ITG12,Palermo,UMANA Solidarietà S.C.S,Famiglia,30
+ITG,Isole,ITG1,Sicilia,ITG13,Messina,ANAS Nazionale,Altra tipologia,10
+ITG,Isole,ITG1,Sicilia,ITG13,Messina,UMANA Solidarietà S.C.S,Altra tipologia,12
+ITG,Isole,ITG1,Sicilia,ITG13,Messina,ANAS Nazionale,Appartamento,4
+ITG,Isole,ITG1,Sicilia,ITG13,Messina,ARCI Aps,Appartamento,20
+ITG,Isole,ITG1,Sicilia,ITG13,Messina,IRIDE Società Cooperativa Sociale,Appartamento,45
+ITG,Isole,ITG1,Sicilia,ITG13,Messina,ARCI Aps,Famiglia,14
+ITG,Isole,ITG1,Sicilia,ITG13,Messina,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Famiglia,4
+ITG,Isole,ITG1,Sicilia,ITG13,Messina,UMANA Solidarietà S.C.S,Famiglia,5
+ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,ANAS Nazionale,Altra tipologia,42
+ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,Associazione San Marco ONLUS,Appartamento,290
+ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Appartamento,6
+ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Famiglia,91
+ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,ANAS Nazionale,Appartamento,15
+ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,ARCI Aps,Appartamento,20
+ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,Associazione San Marco ONLUS,Appartamento,60
+ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,Gea cooperativa sociale,Appartamento,10
+ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,ARCI Aps,Famiglia,10
+ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Famiglia,4
+ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,Gea cooperativa sociale,Famiglia,10
+ITG,Isole,ITG1,Sicilia,ITG16,Enna,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Appartamento,29
+ITG,Isole,ITG1,Sicilia,ITG16,Enna,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Famiglia,52
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,Apeiron Cooperativa Sociale,Altra tipologia,20
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,Comunità Papa Giovanni XXIII,Altra tipologia,28
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,FOCSIV Volontari nel mondo,Altra tipologia,15
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,UMANA Solidarietà S.C.S,Altra tipologia,30
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,IRIDE Società Cooperativa Sociale,Appartamento,252
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,UMANA Solidarietà S.C.S,Appartamento,110
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,ARCI Aps,Famiglia,10
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,Comunità Papa Giovanni XXIII,Famiglia,4
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Famiglia,5
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,Gea cooperativa sociale,Famiglia,13
+ITG,Isole,ITG1,Sicilia,ITG17,Catania,UMANA Solidarietà S.C.S,Famiglia,50
+ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,Comunità Papa Giovanni XXIII,Altra tipologia,12
+ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Altra tipologia,15
+ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,Comunità Papa Giovanni XXIII,Appartamento,12
+ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,IRIDE Società Cooperativa Sociale,Appartamento,20
+ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,Comunità Papa Giovanni XXIII,Famiglia,5
+ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,Gea cooperativa sociale,Appartamento,10
+ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,IRIDE Società Cooperativa Sociale,Appartamento,30
+ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,UMANA Solidarietà S.C.S,Appartamento,45
+ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,ARCI Aps,Famiglia,50
+ITG,Isole,ITG2,Sardegna,ITG2D ,Sassari,Fondazione CARITAS Italiana,Altra tipologia,30
+ITG,Isole,ITG2,Sardegna,ITG2D ,Sassari,Fondazione CARITAS Italiana,Appartamento,39
+ITG,Isole,ITG2,Sardegna,ITG2D ,Sassari,ANAS Nazionale,Famiglia,3
+ITG,Isole,ITG2,Sardegna,ITG2D ,Sassari,Comunità Papa Giovanni XXIII,Famiglia,3
+ITG,Isole,ITG2,Sardegna,ITG2E ,Nuoro,ANAS Nazionale,Famiglia,1
+ITG,Isole,ITG2,Sardegna,ITG2F,Cagliari,ANAS Nazionale,Altra tipologia,41
+ITG,Isole,ITG2,Sardegna,ITG2F,Cagliari,Comunità Papa Giovanni XXIII,Altra tipologia,3
+ITG,Isole,ITG2,Sardegna,ITG2F,Cagliari,Fondazione CARITAS Italiana,Altra tipologia,30
+ITG,Isole,ITG2,Sardegna,ITG2F,Cagliari,ANAS Nazionale,Appartamento,8
+ITG,Isole,ITG2,Sardegna,ITG2F,Cagliari,Fondazione CARITAS Italiana,Appartamento,24
+ITG,Isole,ITG2,Sardegna,ITG2F,Cagliari,ANAS Nazionale,Famiglia,6
+ITG,Isole,ITG2,Sardegna,ITG2H ,Sud Sardegna,Apeiron Cooperativa Sociale,Altra tipologia,15
+ITG,Isole,ITG2,Sardegna,ITG2H ,Sud Sardegna,Fondazione CARITAS Italiana,Altra tipologia,21
+ITG,Isole,ITG2,Sardegna,ITG2H ,Sud Sardegna,Fondazione CARITAS Italiana,Appartamento,27
+ITG,Isole,ITG2,Sardegna,ITG2H ,Sud Sardegna,Coordinamento Regionale Volontariato e Solidarietà Luciano Lama,Famiglia,10
+ITG,Isole,ITG2,Sardegna,ITG2H ,Sud Sardegna,Fondazione CARITAS Italiana,Famiglia,15
+ITH,Nord-est,ITH2,P.A. Trento,ITH20,P.A. Trento,FOCSIV Volontari nel mondo,Altra tipologia,15
+ITH,Nord-est,ITH2,P.A. Trento,ITH20,P.A. Trento,FOCSIV Volontari nel mondo,Appartamento,34
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,Comunità Papa Giovanni XXIII,Altra tipologia,5
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,Fondazione CARITAS Italiana,Altra tipologia,10
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,FOCSIV Volontari nel mondo,Appartamento,10
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,Fondazione AVSI,Appartamento,74
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,Fondazione CARITAS Italiana,Appartamento,30
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,Suore della Compagnia di Maria per l'Educazione delle Sordomute,Appartamento,300
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,Fondazione AVSI,Famiglia,114
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,Comunità Papa Giovanni XXIII,Altra tipologia,10
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,Volontariato in Rete - Federazione Provinciale di Vicenza - Ente Gestore del CSV di Vicenza,Altra tipologia,30
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,ARCI Aps,Appartamento,15
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,FOCSIV Volontari nel mondo,Appartamento,30
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,Gea cooperativa sociale,Appartamento,21
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,Volontariato in Rete - Federazione Provinciale di Vicenza - Ente Gestore del CSV di Vicenza,Appartamento,46
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,ARCI Aps,Famiglia,4
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,Comunità Papa Giovanni XXIII,Famiglia,12
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,Gea cooperativa sociale,Famiglia,35
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,Volontariato in Rete - Federazione Provinciale di Vicenza - Ente Gestore del CSV di Vicenza,Famiglia,488
+ITH,Nord-est,ITH3,Veneto,ITH33,Belluno,Comunità Papa Giovanni XXIII,Altra tipologia,15
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,Comunità Papa Giovanni XXIII,Altra tipologia,8
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,Fondazione CARITAS Italiana,Altra tipologia,20
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,ANAS Nazionale,Appartamento,3
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,Fondazione CARITAS Italiana,Appartamento,31
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,ARCI Aps,Famiglia,50
+ITH,Nord-est,ITH3,Veneto,ITH35,Venezia,Gea cooperativa sociale,Appartamento,15
+ITH,Nord-est,ITH3,Veneto,ITH35,Venezia,ARCI Aps,Famiglia,28
+ITH,Nord-est,ITH3,Veneto,ITH35,Venezia,Gea cooperativa sociale,Famiglia,15
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,Comunità Papa Giovanni XXIII,Altra tipologia,2
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,ARCI Aps,Appartamento,16
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,Gea cooperativa sociale,Appartamento,30
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,ARCI Aps,Famiglia,30
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,Gea cooperativa sociale,Famiglia,41
+ITH,Nord-est,ITH3,Veneto,ITH37,Rovigo,Apeiron Cooperativa Sociale,Appartamento,28
+ITH,Nord-est,ITH3,Veneto,ITH37,Rovigo,Apeiron Cooperativa Sociale,Famiglia,103
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,Comunità Papa Giovanni XXIII,Altra tipologia,3
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,Gea cooperativa sociale,Appartamento,20
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,Gea cooperativa sociale,Famiglia,20
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH43,Gorizia,Gea cooperativa sociale,Appartamento,10
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH43,Gorizia,Gea cooperativa sociale,Famiglia,10
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH44,Trieste,Cooperativa Sociale Desy,Appartamento,21
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,Comunità Papa Giovanni XXIII,Altra tipologia,1
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,Dimora d'Abramo Cooperativa Sociale e di Solidarietà- Società Cooperativa,Appartamento,20
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,Fondazione CARITAS Italiana,Appartamento,5
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,18
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,Comunità Papa Giovanni XXIII,Famiglia,2
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,83
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,Comunità Papa Giovanni XXIII,Famiglia,6
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,Fondazione AVSI,Famiglia,5
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,Dimora d'Abramo Cooperativa Sociale e di Solidarietà- Società Cooperativa,Altra tipologia,45
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,Dimora d'Abramo Cooperativa Sociale e di Solidarietà- Società Cooperativa,Appartamento,179
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,Fondazione CARITAS Italiana,Appartamento,53
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,20
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,Comunità Papa Giovanni XXIII,Altra tipologia,15
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,Dimora d'Abramo Cooperativa Sociale e di Solidarietà- Società Cooperativa,Altra tipologia,69
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,Fondazione CARITAS Italiana,Altra tipologia,8
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,Dimora d'Abramo Cooperativa Sociale e di Solidarietà- Società Cooperativa,Appartamento,27
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,Fondazione CARITAS Italiana,Appartamento,34
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,20
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,Fondazione CARITAS Italiana,Altra tipologia,4
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,137
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH56,Ferrara,FOCSIV Volontari nel mondo,Appartamento,16
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH56,Ferrara,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,20
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,Comunità Papa Giovanni XXIII,Altra tipologia,9
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,25
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,Comunità Papa Giovanni XXIII,Famiglia,16
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,Fondazione AVSI,Appartamento,20
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,44
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,Fondazione AVSI,Famiglia,25
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,FOCSIV Volontari nel mondo,Altra tipologia,15
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,FOCSIV Volontari nel mondo,Appartamento,20
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,Fondazione AVSI,Appartamento,15
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,Fondazione CARITAS Italiana,Appartamento,3
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Famiglia,15
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,Comunità Papa Giovanni XXIII,Famiglia,2
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,Fondazione AVSI,Famiglia,20
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,Fondazione CARITAS Italiana,Famiglia,20
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,Fondazione CARITAS Italiana,Appartamento,26
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,Fondazione CARITAS Italiana,Famiglia,10
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,Fondazione CARITAS Italiana,Altra tipologia,5
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,Fondazione CARITAS Italiana,Appartamento,149
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,ARCI Aps,Famiglia,35
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,Fondazione CARITAS Italiana,Famiglia,17
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,ARCI Aps,Altra tipologia,30
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,Comunità Papa Giovanni XXIII,Altra tipologia,14
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,Cooperativa Sociale Desy,Altra tipologia,30
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,ARCI Aps,Appartamento,26
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,Comunità Papa Giovanni XXIII,Appartamento,6
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,Gea cooperativa sociale,Appartamento,5
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,Gea cooperativa sociale,Famiglia,25
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,ARCI Aps,Appartamento,4
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,Cooperativa Sociale Desy,Appartamento,15
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,Gea cooperativa sociale,Appartamento,23
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,FOCSIV Volontari nel mondo,Famiglia,8
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,Gea cooperativa sociale,Famiglia,22
+ITI,Centro,ITI1,Toscana,ITI15,Prato,Gea cooperativa sociale,Appartamento,8
+ITI,Centro,ITI1,Toscana,ITI15,Prato,Gea cooperativa sociale,Famiglia,7
+ITI,Centro,ITI1,Toscana,ITI16,Livorno,Gea cooperativa sociale,Appartamento,25
+ITI,Centro,ITI1,Toscana,ITI16,Livorno,Gea cooperativa sociale,Famiglia,25
+ITI,Centro,ITI1,Toscana,ITI17,Pisa,ARCI Aps,Altra tipologia,15
+ITI,Centro,ITI1,Toscana,ITI17,Pisa,Fondazione CARITAS Italiana,Altra tipologia,30
+ITI,Centro,ITI1,Toscana,ITI17,Pisa,ARCI Aps,Appartamento,18
+ITI,Centro,ITI1,Toscana,ITI17,Pisa,Fondazione CARITAS Italiana,Appartamento,15
+ITI,Centro,ITI1,Toscana,ITI17,Pisa,FOCSIV Volontari nel mondo,Famiglia,22
+ITI,Centro,ITI1,Toscana,ITI18,Arezzo,Comunità Papa Giovanni XXIII,Altra tipologia,15
+ITI,Centro,ITI1,Toscana,ITI18,Arezzo,Cooperativa Sociale Desy,Appartamento,8
+ITI,Centro,ITI1,Toscana,ITI18,Arezzo,Fondazione CARITAS Italiana,Appartamento,26
+ITI,Centro,ITI1,Toscana,ITI1A,Grosseto,Fondazione CARITAS Italiana,Altra tipologia,8
+ITI,Centro,ITI1,Toscana,ITI1A,Grosseto,Fondazione CARITAS Italiana,Appartamento,4
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,ARCI Aps,Altra tipologia,25
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Altra tipologia,10
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,ARCI Aps,Appartamento,70
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,Fondazione CARITAS Italiana,Appartamento,20
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Famiglia,163
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,Fondazione AVSI,Famiglia,3
+ITI,Centro,ITI2,Umbria,ITI22,Terni,ARCI Aps,Altra tipologia,27
+ITI,Centro,ITI2,Umbria,ITI22,Terni,FOCSIV Volontari nel mondo,Altra tipologia,30
+ITI,Centro,ITI2,Umbria,ITI22,Terni,ARCI Aps,Appartamento,19
+ITI,Centro,ITI2,Umbria,ITI22,Terni,Comunità Papa Giovanni XXIII,Appartamento,6
+ITI,Centro,ITI2,Umbria,ITI22,Terni,FOCSIV Volontari nel mondo,Appartamento,28
+ITI,Centro,ITI2,Umbria,ITI22,Terni,CIDIS - Centro Informazione Documentazione e Iniziativa per lo Sviluppo,Famiglia,10
+ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,Comunità Papa Giovanni XXIII,Altra tipologia,20
+ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,Fondazione AVSI,Famiglia,8
+ITI,Centro,ITI3,Marche,ITI32,Ancona,Fondazione CARITAS Italiana,Appartamento,19
+ITI,Centro,ITI3,Marche,ITI32,Ancona,Fondazione CARITAS Italiana,Famiglia,1
+ITI,Centro,ITI3,Marche,ITI33,Macerata,Fondazione CARITAS Italiana,Appartamento,6
+ITI,Centro,ITI3,Marche,ITI33,Macerata,Gea cooperativa sociale,Appartamento,11
+ITI,Centro,ITI3,Marche,ITI33,Macerata,Fondazione AVSI,Famiglia,5
+ITI,Centro,ITI3,Marche,ITI33,Macerata,Gea cooperativa sociale,Famiglia,6
+ITI,Centro,ITI3,Marche,ITI34,Ascoli Piceno,Apeiron Cooperativa Sociale,Appartamento,4
+ITI,Centro,ITI3,Marche,ITI34,Ascoli Piceno,Apeiron Cooperativa Sociale,Famiglia,21
+ITI,Centro,ITI3,Marche,ITI34,Ascoli Piceno,Fondazione AVSI,Famiglia,5
+ITI,Centro,ITI3,Marche,ITI35,Fermo,Fondazione CARITAS Italiana,Appartamento,8
+ITI,Centro,ITI3,Marche,ITI35,Fermo,Fondazione AVSI,Famiglia,10
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,Fondazione CARITAS Italiana,Altra tipologia,17
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,ANAS Nazionale,Appartamento,22
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,Apeiron Cooperativa Sociale,Appartamento,23
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,ARCI Aps,Appartamento,21
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,Fondazione CARITAS Italiana,Appartamento,11
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,Synergasia Cooperativa Sociale ONLUS ,Appartamento,50
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,Apeiron Cooperativa Sociale,Famiglia,12
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,ARCI Aps,Famiglia,4
+ITI,Centro,ITI4,Lazio,ITI42,Rieti,Synergasia Cooperativa Sociale ONLUS ,Appartamento,30
+ITI,Centro,ITI4,Lazio,ITI42,Rieti,Comunità Papa Giovanni XXIII,Famiglia,3
+ITI,Centro,ITI4,Lazio,ITI42,Rieti,Synergasia Cooperativa Sociale ONLUS ,Famiglia,110
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Comunità Papa Giovanni XXIII,Altra tipologia,15
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Fondazione CARITAS Italiana,Altra tipologia,47
+ITI,Centro,ITI4,Lazio,ITI43,Roma,ANAS Nazionale,Appartamento,29
+ITI,Centro,ITI4,Lazio,ITI43,Roma,ARCI Aps,Appartamento,15
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Fondazione CARITAS Italiana,Appartamento,7
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Gea cooperativa sociale,Appartamento,6
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Synergasia Cooperativa Sociale ONLUS ,Appartamento,50
+ITI,Centro,ITI4,Lazio,ITI43,Roma,UMANA Solidarietà S.C.S,Appartamento,48
+ITI,Centro,ITI4,Lazio,ITI43,Roma,ANAS Nazionale,Famiglia,2
+ITI,Centro,ITI4,Lazio,ITI43,Roma,ARCI Aps,Famiglia,300
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Comunità Papa Giovanni XXIII,Famiglia,15
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Fondazione AVSI,Famiglia,3
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Fondazione CARITAS Italiana,Famiglia,50
+ITI,Centro,ITI4,Lazio,ITI43,Roma,Gea cooperativa sociale,Famiglia,13
+ITI,Centro,ITI4,Lazio,ITI44,Latina,Apeiron Cooperativa Sociale,Altra tipologia,60
+ITI,Centro,ITI4,Lazio,ITI44,Latina,ANAS Nazionale,Appartamento,3
+ITI,Centro,ITI4,Lazio,ITI44,Latina,Apeiron Cooperativa Sociale,Famiglia,40
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,ANAS Nazionale,Altra tipologia,15
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,Comunità Papa Giovanni XXIII,Altra tipologia,24
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,Fondazione CARITAS Italiana,Altra tipologia,24
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,Comunità Papa Giovanni XXIII,Appartamento,17
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,Fondazione CARITAS Italiana,Appartamento,38
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,Synergasia Cooperativa Sociale ONLUS ,Appartamento,60
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,UMANA Solidarietà S.C.S,Appartamento,68
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,Comunità Papa Giovanni XXIII,Famiglia,16

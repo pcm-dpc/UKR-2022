@@ -1,0 +1,878 @@
+[
+   {
+      "update":"2022-03-03T08:00:00Z",
+      "date":"2022-3-3",
+      "country":"POL",
+      "region":"Legnica",
+      "municipality":"Prochowice",
+      "latitude":51.273642,
+      "longitude":16.364036,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"200 tende con letti e sacchi a pelo per circa mille persone",
+      "donor":[
+         "Dipartimento della Protezione Civile",
+         "Ministero dell'Interno"
+      ],
+      "value":"2.500.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-08T08:00:00Z",
+      "date":"2022-3-8",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 5 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-09T08:00:00Z",
+      "date":"2022-3-9",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 2 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-09T08:00:00Z",
+      "date":"2022-3-9",
+      "country":"ROU",
+      "region":"Suceava",
+      "municipality":"Suceava",
+      "latitude":47.663668,
+      "longitude":26.273488,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Medicinali e forniture mediche",
+      "description":"Medicinali kit sanitari e apparecchi elettromedicali",
+      "donor":[
+         "Abruzzo",
+         "Basilicata",
+         "Calabria",
+         "Campania",
+         "Emilia-Romagna",
+         "Friuli-Venezia Giulia",
+         "Lazio",
+         "Liguria",
+         "Lombardia",
+         "Marche",
+         "Molise",
+         "P.A. Bolzano",
+         "P.A. Trento",
+         "Piemonte",
+         "Puglia",
+         "Sardegna",
+         "Sicilia",
+         "Toscana",
+         "Umbria",
+         "Valle d\\'Aosta,'Veneto"
+      ],
+      "value":"1.300.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-11T08:00:00Z",
+      "date":"2022-3-11",
+      "country":"POL",
+      "region":"Lublin",
+      "municipality":"Niemce",
+      "latitude":51.360276,
+      "longitude":22.628419,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"Tende letti e sacchi a pelo",
+      "donor":[
+         "Ministero degli Affari Esteri e della Cooperazione Internazionale"
+      ],
+      "value":"50.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-13T08:00:00Z",
+      "date":"2022-3-13",
+      "country":"POL",
+      "region":"Lesser Poland",
+      "municipality":"Cracovia",
+      "latitude":50.061527,
+      "longitude":19.939605,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 3 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-14T08:00:00Z",
+      "date":"2022-3-14",
+      "country":"MDA",
+      "region":"Chișinău",
+      "municipality":"Chișinău",
+      "latitude":47.015533,
+      "longitude":28.861608,
+      "destination":[
+         "MDA"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"Tende coperte servizi generatori stufe kit igienici set da cucina taniche e cisterne d'acqua",
+      "donor":[
+         "Ministero degli Affari Esteri e della Cooperazione Internazionale"
+      ],
+      "value":"55.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-14T08:00:00Z",
+      "date":"2022-3-14",
+      "country":"ROU",
+      "region":"Suceava",
+      "municipality":"Suceava",
+      "latitude":47.663668,
+      "longitude":26.273488,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Medicinali e forniture mediche",
+      "description":"Medicinali kit sanitari e apparecchi elettromedicali",
+      "donor":[
+         "Abruzzo",
+         "Basilicata",
+         "Calabria",
+         "Campania",
+         "Emilia-Romagna",
+         "Friuli-Venezia Giulia",
+         "Lazio",
+         "Liguria",
+         "Lombardia",
+         "Marche",
+         "Molise",
+         "P.A. Bolzano",
+         "P.A. Trento",
+         "Piemonte",
+         "Puglia",
+         "Sardegna",
+         "Sicilia",
+         "Toscana",
+         "Umbria",
+         "Valle d\\'Aosta,'Veneto"
+      ],
+      "value":"570.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-14T08:00:00Z",
+      "date":"2022-3-14",
+      "country":"ROU",
+      "region":"Suceava",
+      "municipality":"Suceava",
+      "latitude":47.663668,
+      "longitude":26.273488,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Medicinali e forniture mediche",
+      "description":"Medicinali kit sanitari e apparecchi elettromedicali",
+      "donor":[
+         "Abruzzo",
+         "Basilicata",
+         "Calabria",
+         "Campania",
+         "Emilia-Romagna",
+         "Friuli-Venezia Giulia",
+         "Lazio",
+         "Liguria",
+         "Lombardia",
+         "Marche",
+         "Molise",
+         "P.A. Bolzano",
+         "P.A. Trento",
+         "Piemonte",
+         "Puglia",
+         "Sardegna",
+         "Sicilia",
+         "Toscana",
+         "Umbria",
+         "Valle d\\'Aosta,'Veneto"
+      ],
+      "value":"750.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-14T08:00:00Z",
+      "date":"2022-3-14",
+      "country":"ROU",
+      "region":"Suceava",
+      "municipality":"Siret",
+      "latitude":47.951766,
+      "longitude":26.069386,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Mezzi",
+      "description":"8 ambulanze",
+      "donor":[
+         "Dipartimento della Protezione Civile",
+         "Ministero dell'Interno"
+      ],
+      "value":"150.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-14T08:00:00Z",
+      "date":"2022-3-14",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 6 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-14T08:00:00Z",
+      "date":"2022-3-14",
+      "country":"POL",
+      "region":"Lublin",
+      "municipality":"Niemce",
+      "latitude":51.360276,
+      "longitude":22.628419,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"Tende letti e sacchi a pelo",
+      "donor":[
+         "Ministero degli Affari Esteri e della Cooperazione Internazionale"
+      ],
+      "value":"60.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-16T08:00:00Z",
+      "date":"2022-3-16",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 5 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-16T08:00:00Z",
+      "date":"2022-3-16",
+      "country":"MDA",
+      "region":"Chișinău",
+      "municipality":"Chișinău",
+      "latitude":47.015533,
+      "longitude":28.861608,
+      "destination":[
+         "MDA"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"Tende coperte servizi generatori stufe kit igienici set da cucina taniche e cisterne d'acqua",
+      "donor":[
+         "Ministero degli Affari Esteri e della Cooperazione Internazionale"
+      ],
+      "value":"65.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-18T08:00:00Z",
+      "date":"2022-3-18",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 4 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-19T08:00:00Z",
+      "date":"2022-3-19",
+      "country":"SVK",
+      "region":"Košice",
+      "municipality":"Michalovce",
+      "latitude":48.756001,
+      "longitude":21.91486,
+      "destination":[
+         "SVK"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"Campo d'accoglienza per 250 persone composto da 30 tende e completo di illuminazione riscaldamento letti servizi cucina da campo",
+      "donor":[
+         "Friuli-Venezia Giulia"
+      ],
+      "value":"800.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-20T08:00:00Z",
+      "date":"2022-3-20",
+      "country":"ROU",
+      "region":"Suceava",
+      "municipality":"Siret",
+      "latitude":47.951766,
+      "longitude":26.069386,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Mezzi",
+      "description":"15 ambulanze",
+      "donor":[
+         "Dipartimento della Protezione Civile",
+         "Ministero dell'Interno"
+      ],
+      "value":"300.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-20T08:00:00Z",
+      "date":"2022-3-20",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 5 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-21T08:00:00Z",
+      "date":"2022-3-21",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 13 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-22T08:00:00Z",
+      "date":"2022-3-22",
+      "country":"UKR",
+      "region":"Chernivtsi",
+      "municipality":"Chernivtsi",
+      "latitude":48.299684,
+      "longitude":25.938372,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"3.000 brandine 3.000 sacchi a pelo 1 generatore 1.000 radiatori",
+      "donor":[
+         "Ministero dell'Interno"
+      ],
+      "value":"680.000 Euro circa",
+      "field_intervention":"Accordi bilaterali"
+   },
+   {
+      "update":"2022-03-23T08:00:00Z",
+      "date":"2022-3-23",
+      "country":"ROU",
+      "region":"Suceava",
+      "municipality":"Suceava",
+      "latitude":47.663668,
+      "longitude":26.273488,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Medicinali e forniture mediche",
+      "description":"Medicinali kit sanitari e apparecchi elettromedicali",
+      "donor":[
+         "Abruzzo",
+         "Basilicata",
+         "Calabria",
+         "Campania",
+         "Emilia-Romagna",
+         "Friuli-Venezia Giulia",
+         "Lazio",
+         "Liguria",
+         "Lombardia",
+         "Marche",
+         "Molise",
+         "P.A. Bolzano",
+         "P.A. Trento",
+         "Piemonte",
+         "Puglia",
+         "Sardegna",
+         "Sicilia",
+         "Toscana",
+         "Umbria",
+         "Valle d\\'Aosta,'Veneto"
+      ],
+      "value":"400.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-25T08:00:00Z",
+      "date":"2022-3-25",
+      "country":"MDA",
+      "region":"Hîncești",
+      "municipality":"Leuseni",
+      "latitude":47.48278,
+      "longitude":28.43414,
+      "destination":[
+         "MDA"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"Campo d'accoglienza per 500 persone composto da 84 tende e completo di illuminazione riscaldamento letti servizi cucina da campo",
+      "donor":[
+         "P.A. Bolzano",
+         "P.A. Trento"
+      ],
+      "value":"1.700.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-03-26T08:00:00Z",
+      "date":"2022-3-26",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 15 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-28T08:00:00Z",
+      "date":"2022-3-28",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 12 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-31T08:00:00Z",
+      "date":"2022-3-31",
+      "country":"POL",
+      "region":"Masovia",
+      "municipality":"Varsavia",
+      "latitude":52.229675,
+      "longitude":21.01223,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 10 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-03-31T08:00:00Z",
+      "date":"2022-3-31",
+      "country":"UKR",
+      "region":"Zakarpattia",
+      "municipality":"Chop",
+      "latitude":48.43165,
+      "longitude":22.20545,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"Tendostruttura di 3.200 metri quadri",
+      "donor":[
+         "Regione Veneto"
+      ],
+      "value":"450.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-04-02T08:00:00Z",
+      "date":"2022-4-2",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 10 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-03T08:00:00Z",
+      "date":"2022-4-3",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 2 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-07T08:00:00Z",
+      "date":"2022-4-7",
+      "country":"POL",
+      "region":"Lesser Poland",
+      "municipality":"Cracovia",
+      "latitude":50.061527,
+      "longitude":19.939605,
+      "destination":[
+         "UKR",
+         "POL"
+      ],
+      "category":"Materiali e attrezzature campi di accoglienza",
+      "description":"3 cucine da campo",
+      "donor":[
+         "ANPAS - Associazione Nazionale Pubbliche Assistenze",
+         "SOS - Servizio Operativo Sanitario",
+         "Regione Umbria"
+      ],
+      "value":"400.000 Euro circa",
+      "field_intervention":"Accordi bilaterali"
+   },
+   {
+      "update":"2022-04-08T08:00:00Z",
+      "date":"2022-4-8",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 8 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-12T08:00:00Z",
+      "date":"2022-4-12",
+      "country":"MDA",
+      "region":"Chișinău",
+      "municipality":"Chișinău",
+      "latitude":47.015533,
+      "longitude":28.861608,
+      "destination":[
+         "MDA"
+      ],
+      "category":"Mezzi",
+      "description":"4 mezzi antincendio",
+      "donor":[
+         "Corpo Nazionale dei Vigili del Fuoco"
+      ],
+      "value":"22.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-04-13T08:00:00Z",
+      "date":"2022-4-13",
+      "country":"POL",
+      "region":"Silesia",
+      "municipality":"Slawków Poludniowy",
+      "latitude":50.29833,
+      "longitude":19.38819,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Beni di prima necessità",
+      "description":"Cibo acqua vestiti coperte medicinali kit sanitari e altri beni di prima necessità",
+      "donor":[
+         "Regione Toscana",
+         "Regione Veneto",
+         "Regione Piemonte",
+         "Confindustria"
+      ],
+      "value":"1.500.000 Euro circa",
+      "field_intervention":"Accordi bilaterali"
+   },
+   {
+      "update":"2022-04-15T08:00:00Z",
+      "date":"2022-4-15",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 17 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-16T08:00:00Z",
+      "date":"2022-4-16",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 20 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-18T08:00:00Z",
+      "date":"2022-4-18",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 4 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-21T08:00:00Z",
+      "date":"2022-4-21",
+      "country":"ROU",
+      "region":"Iași",
+      "municipality":"Iași",
+      "latitude":47.159809,
+      "longitude":27.5872,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 5 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-22T08:00:00Z",
+      "date":"2022-4-22",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 4 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-29T08:00:00Z",
+      "date":"2022-4-29",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 4 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-30T08:00:00Z",
+      "date":"2022-4-30",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 10 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-04-30T08:00:00Z",
+      "date":"2022-4-30",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 4 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-05-07T08:00:00Z",
+      "date":"2022-5-7",
+      "country":"POL",
+      "region":"Subcarpathian",
+      "municipality":"Rzeszów",
+      "latitude":50.04015,
+      "longitude":21.97979,
+      "destination":[
+         "ITA"
+      ],
+      "category":"Missioni MedEvac (Medical Evacuation)",
+      "description":"Trasporto in Italia di 16 pazienti",
+      "donor":"",
+      "value":"",
+      "field_intervention":"MedEvac (Medical Evacuation)"
+   },
+   {
+      "update":"2022-05-08T08:00:00Z",
+      "date":"2022-5-8",
+      "country":"SVK",
+      "region":"Kosice",
+      "municipality":"Velká Ida",
+      "latitude":48.59367,
+      "longitude":21.16797,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Mezzi",
+      "description":"45 mezzi antincendio",
+      "donor":[
+         "Corpo Nazionale dei Vigili del Fuoco"
+      ],
+      "value":"200.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-05-08T08:00:00Z",
+      "date":"2022-5-8",
+      "country":"POL",
+      "region":"Lublin",
+      "municipality":"Niemce",
+      "latitude":51.360276,
+      "longitude":22.628419,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Materiale elettrico",
+      "description":"Materiale elettrico",
+      "donor":[
+         "TotalEnergies"
+      ],
+      "value":"40.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   },
+   {
+      "update":"2022-05-08T08:00:00Z",
+      "date":"2022-5-8",
+      "country":"POL",
+      "region":"Zamość",
+      "municipality":"Szczebrzeszyn",
+      "latitude":50.69492,
+      "longitude":22.97801,
+      "destination":[
+         "UKR"
+      ],
+      "category":"Materiale elettrico",
+      "description":"Materiale elettrico",
+      "donor":[
+         "TotalEnergies"
+      ],
+      "value":"40.000 Euro circa",
+      "field_intervention":"Meccanismo Unionale di Protezione Civile"
+   }
+]

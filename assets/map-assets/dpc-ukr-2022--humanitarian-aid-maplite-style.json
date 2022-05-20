@@ -1,0 +1,51 @@
+{
+	"style_properties": [{
+		"propertyKey": "Tipologia",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "Materiali e attrezzature campi di accoglienza",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/tent_traccia_low_new.png)"
+					},
+					{
+						"key": "Tensostrutture",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/family_traccia_low.png)"
+					},
+					{
+						"key": "Mezzi",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/vehicles_traccia_low.png)"
+					},
+					{
+						"key": "Medicinali e forniture mediche",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/aid-kit.png)"
+					},
+					{
+						"key": "Materiali e attrezzature campi di accoglienza, Mezzi",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/Tende_e_mezzi.png)"
+					},
+					{
+						"key": "Missioni MedEvac-Medical Evacuation",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/plane_traccia_low.png)"
+					},
+					{
+						"key": "Materiali e attrezzature campi di accoglienza, Missioni MedEvac-Medical Evacuation",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/Tende_e_Medevac.png)"
+					},
+					{
+						"key": "Beni di prima necessità",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/assistance_traccia_low.png)"
+					},
+					{
+						"key": "Materiali elettrici",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/cable_traccia_low.png)"
+					},
+					{
+						"key": "Materiali e attrezzature campi di accoglienza, Materiali elettrici",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/Tende_e_energia.png)"
+					}   
+				]
+			}
+		]
+	}]
+}

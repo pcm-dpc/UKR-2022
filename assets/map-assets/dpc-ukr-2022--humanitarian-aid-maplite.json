@@ -1,0 +1,11 @@
+{
+  "type": "first",
+  "date": "2022-04-09",
+  "name": "L'impegno del sistema italiano di protezione civile nell’assistenza umanitaria",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/legenda_finale.png",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/dpc-ukr-2022--maplite--style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/dati/dpc-ukr-2022--aiuti-umanitari.json",
+    "html_descrition": "<h3>L'impegno del sistema italiano di protezione civile nell’assistenza umanitaria</h3><br /><p>Dall’inizio dell’emergenza, il Dipartimento della Protezione Civile sta garantendo assistenza umanitaria all’Ucraina e ai Paesi interessati dai consistenti flussi di profughi in fuga dal conflitto sia nell’ambito del Meccanismo Unionale di Protezione Civile, sia di accordi bilaterali.</p><br /><p>Sulla base delle richieste di assistenza internazionale, il Dipartimento coordina la ricognizione e l’invio delle risorse disponibili di Componenti, Strutture operative e soggetti concorrenti del Servizio Nazionale di Protezione Civile.</p><br /><p>Nell’ambito dell’emergenza, il Dipartimento sta inoltre garantendo l’evacuazione medica <i>MedEvac-Medical Evacuation</i> – anche con modulo <i>DisEvac-Disability Evacuation</i> – di pazienti con necessità di assistenza specialistica, trasportati in Italia e ricoverati in diversi centri nazionali.</p><br /><p>Cliccando sui puntatori riportati nella mappa, suddivisi per tipologia di aiuto, è possibile visualizzare le informazioni di dettaglio dei singoli interventi.</p>"
+  }
+}

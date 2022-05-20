@@ -1,0 +1,56 @@
+nuts_2,region,facility_type,places
+ITF1,Abruzzo,Famiglia,36
+ITF1,Abruzzo,Appartamento,113
+ITF1,Abruzzo,Altra tipologia,43
+ITF5,Basilicata,Famiglia,15
+ITF5,Basilicata,Appartamento,455
+ITF6,Calabria,Famiglia,254
+ITF6,Calabria,Appartamento,2748
+ITF6,Calabria,Altra tipologia,1041
+ITF3,Campania,Famiglia,571
+ITF3,Campania,Appartamento,2878
+ITF3,Campania,Altra tipologia,862
+ITH5,Emilia-Romagna,Famiglia,478
+ITH5,Emilia-Romagna,Appartamento,392
+ITH5,Emilia-Romagna,Altra tipologia,166
+ITH4,Friuli-Venezia Giulia,Famiglia,30
+ITH4,Friuli-Venezia Giulia,Appartamento,51
+ITH4,Friuli-Venezia Giulia,Altra tipologia,3
+ITI4,Lazio,Famiglia,1668
+ITI4,Lazio,Appartamento,2138
+ITI4,Lazio,Altra tipologia,217
+ITC3,Liguria,Famiglia,37
+ITC3,Liguria,Appartamento,65
+ITC3,Liguria,Altra tipologia,19
+ITC4,Lombardia,Famiglia,925
+ITC4,Lombardia,Appartamento,701
+ITC4,Lombardia,Altra tipologia,256
+ITI3,Marche,Famiglia,56
+ITI3,Marche,Appartamento,48
+ITI3,Marche,Altra tipologia,20
+ITF2,Molise,Appartamento,52
+ITF2,Molise,Altra tipologia,18
+ITH2,P.A. Trento,Appartamento,34
+ITH2,P.A. Trento,Altra tipologia,15
+ITC1,Piemonte,Famiglia,91
+ITC1,Piemonte,Appartamento,687
+ITC1,Piemonte,Altra tipologia,137
+ITF4,Puglia,Famiglia,157
+ITF4,Puglia,Appartamento,1756
+ITF4,Puglia,Altra tipologia,504
+ITG2,Sardegna,Famiglia,38
+ITG2,Sardegna,Appartamento,406
+ITG2,Sardegna,Altra tipologia,140
+ITG1,Sicilia,Famiglia,516
+ITG1,Sicilia,Appartamento,2292
+ITG1,Sicilia,Altra tipologia,247
+ITI1,Toscana,Famiglia,171
+ITI1,Toscana,Appartamento,358
+ITI1,Toscana,Altra tipologia,147
+ITI2,Umbria,Famiglia,176
+ITI2,Umbria,Appartamento,373
+ITI2,Umbria,Altra tipologia,92
+ITC2,Valle d'Aosta,Appartamento,50
+ITH3,Veneto,Famiglia,920
+ITH3,Veneto,Appartamento,649
+ITH3,Veneto,Altra tipologia,100
