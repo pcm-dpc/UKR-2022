@@ -682,5 +682,23 @@
     "railway_police_women": 113,
     "railway_police_men": 63,
     "railway_police_minors": 27
+  },
+  {
+    "date": "2022-05-24T15:00:00Z",
+    "border_patrol_women": 240,
+    "border_patrol_men": 112,
+    "border_patrol_minors": 81,
+    "railway_police_women": 21,
+    "railway_police_men": 15,
+    "railway_police_minors": 3
+  },
+  {
+    "date": "2022-05-25T15:00:00Z",
+    "border_patrol_women": 371,
+    "border_patrol_men": 185,
+    "border_patrol_minors": 92,
+    "railway_police_women": 41,
+    "railway_police_men": 18,
+    "railway_police_minors": 4
   }
 ]
