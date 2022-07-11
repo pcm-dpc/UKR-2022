@@ -11,8 +11,8 @@ Produzione Opendata e dashboard / Opendata production and dashboard: **Dipartime
 
 ## Aggiornamento dei dati / Data update
 
-Settimanale - Sabato alle 15:00 / Weekly - Saturday at 03:00pm<br>
-I dati si riferiscono al giorno precedente / The data refer to the previous day
+Settimanale - lunedì entro le 15:00<br>
+Weekly - Monday within 03:00pm
 
 ## Processo / Process
 
