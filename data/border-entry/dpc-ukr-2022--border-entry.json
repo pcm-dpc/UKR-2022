@@ -907,5 +907,41 @@
     "railway_police_women": 30,
     "railway_police_men": 13,
     "railway_police_minors": 6
+  },
+  {
+    "date": "2022-06-25T15:00:00Z",
+    "border_patrol_women": 264,
+    "border_patrol_men": 96,
+    "border_patrol_minors": 65,
+    "railway_police_women": 18,
+    "railway_police_men": 7,
+    "railway_police_minors": 2
+  },
+  {
+    "date": "2022-06-27T15:00:00Z",
+    "border_patrol_women": 250,
+    "border_patrol_men": 95,
+    "border_patrol_minors": 117,
+    "railway_police_women": 13,
+    "railway_police_men": 7,
+    "railway_police_minors": 2
+  },
+  {
+    "date": "2022-07-01T15:00:00Z",
+    "border_patrol_women": 1.778,
+    "border_patrol_men": 613,
+    "border_patrol_minors": 685,
+    "railway_police_women": 36,
+    "railway_police_men": 19,
+    "railway_police_minors": 4
+  },
+  {
+    "date": "2022-07-07T15:00:00Z",
+    "border_patrol_women": 1.418,
+    "border_patrol_men": 575,
+    "border_patrol_minors": 547,
+    "railway_police_women": 0,
+    "railway_police_men": 0,
+    "railway_police_minors": 0
   }
 ]
