@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:locn="http://www.w3.org/ns/locn#" xmlns:hydra="http://www.w3.org/ns/hydra/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcatapit="http://dati.gov.it/onto/dcatapit#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+
+<dcatapit:Catalog rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+  <dct:title>PCM - Dipartimento della Protezione Civile</dct:title>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="PCM">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>PCM</dct:identifier>
+      <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:description>Dati emergenza Ucraina 2022</dct:description>
+  <dct:language>it</dct:language>
+  <foaf:homepage rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data#"/>
+  <dcat:themeTaxonomy>
+    <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
+      <dct:title>Data Theme Vocabulary</dct:title>
+    </skos:ConceptScheme>
+  </dcat:themeTaxonomy>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-16</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-19</dct:issued>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dcat:dataset rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/border-entry"/>
+  <dcat:dataset rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/subsistence-allowance"/>
+  <dcat:dataset rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/expressions-of-interest-diffused-hospitality"/>
+  <dcat:dataset rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid"/>
+  <dcat:dataset rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/temporary-protection"/>
+  </dcatapit:Catalog>
+  <dcatapit:Dataset rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/border-entry">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+    <dct:license/>
+    <dct:title>Ingressi alle frontiere</dct:title>
+    <dct:landingpage>https://github.com/pcm-dpc/UKR-2022/tree/master/data/border-entry</dct:landingpage>
+    <dct:description>Fornisce i dati sugli ingressi in Italia su base giornaliera.
+In seguito alla guerra scoppiata in Ucraina a partire dal 24 febbraio 2022, la popolazione in fuga dal Paese è stata accolta e assistita in primo luogo dagli Stati confinanti. Contestualmente, anche in Italia sono state avviate le attività necessarie a garantire l’accoglienza delle persone in arrivo nel nostro Paese.</dct:description>
+    <dct:identifier>PCM:border-entry</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/WEEKLY"/>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100183"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-16</dct:modified>
+    <dct:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-19</dct:issue>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dcat:keyword>Ucraina</dcat:keyword>
+    <dcat:keyword>ingressi</dcat:keyword>
+    <dcat:keyword>accoglienza</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/border-entry/csv2"/>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/border-entry/json3"/>
+  </dcatapit:Dataset>
+  <dcatapit:Dataset rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/subsistence-allowance">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+    <dct:license/>
+    <dct:title>Contributo di sostentamento</dct:title>
+    <dct:landingpage>https://github.com/pcm-dpc/UKR-2022/tree/master/data/subsistence-allowance</dct:landingpage>
+    <dct:description>Possono ottenere il contributo di sostentamento le persone provenienti dall'Ucraina che hanno presentato domanda di permesso di soggiorno per protezione temporanea. Il contributo è riconosciuto in quote mensili da 300 euro per un massimo di tre mesi a partire dalla data della ricevuta di presentazione della domanda di permesso.
+Può essere richiesto entro il 30 settembre 2022 tramite la piattaforma dedicata: https://contributo-emergenzaucraina.protezionecivile.gov.it</dct:description>
+    <dct:identifier>PCM:subsistence-allowance</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/WEEKLY"/>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100183"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-16</dct:modified>
+    <dct:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-19</dct:issue>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dcat:keyword>Ucraina</dcat:keyword>
+    <dcat:keyword>contributi</dcat:keyword>
+    <dcat:keyword>protezione temporanea</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/subsistence-allowance/csv4"/>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/subsistence-allowance/json5"/>
+  </dcatapit:Dataset>
+  <dcatapit:Dataset rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/expressions-of-interest-diffused-hospitality">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+    <dct:license/>
+    <dct:title>Manifestazioni di interesse accoglienza diffusa</dct:title>
+    <dct:landingpage>https://github.com/pcm-dpc/UKR-2022/tree/master/data/expressions-of-interest-diffused-hospitality</dct:landingpage>
+    <dct:description>Si è chiuso alle ore 18 del 22 aprile 2022 il termine di presentazione per le manifestazioni d'interesse, previste dall'avviso pubblicato l'11 aprile 2022 dal Dipartimento, sulla base dell'art. 1 dell'Ocdpc n. 881 del 29 marzo 2022, da parte degli enti individuati dall'art. 31 del decreto-legge n. 21 del 21 marzo 2022.
+Obiettivo: offrire misure di accoglienza diffusa e di accompagnamento per l'integrazione e l'autonomia alle persone provenienti dall'Ucraina.
+Con decreto del Capo del Dipartimento del 22 aprile 2022 è stata nominata la Commissione di valutazione che ha esaminato le manifestazioni di interesse pervenute per lo svolgimento di attività di accoglienza diffusa nel territorio nazionale a beneficio delle persone in fuga dalla guerra in Ucraina.
+Delle 48 manifestazioni di interesse caricate sulla piattaforma Avvisi e bandi, una è stata esclusa dalla valutazione perché il soggetto proponente non ha presentato la documentazione richiesta.
+All'esito dei lavori della Commissione, sul totale delle 47 manifestazioni esaminate, 29 sono state valutate positivamente, per un totale di 17.012 posti offerti, mentre 18 hanno ricevuto una valutazione negativa.</dct:description>
+    <dct:identifier>PCM:expressions-of-interest-diffused-hospitality</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100183"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-16</dct:modified>
+    <dct:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-19</dct:issue>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dcat:keyword>Ucraina</dcat:keyword>
+    <dcat:keyword>accoglienza diffusa</dcat:keyword>
+    <dcat:keyword>integrazione</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/expressions-of-interest-diffused-hospitality/csv6"/>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/expressions-of-interest-diffused-hospitality/json7"/>
+  </dcatapit:Dataset>
+  <dcatapit:Dataset rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+    <dct:license/>
+    <dct:title>Aiuti umanitari</dct:title>
+    <dct:landingpage>https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid</dct:landingpage>
+    <dct:description>L'impegno del sistema italiano di protezione civile nell'assistenza umanitaria.
+Dall'inizio dell'emergenza, il Dipartimento della Protezione Civile sta garantendo assistenza umanitaria all'Ucraina e ai Paesi interessati dai consistenti flussi di profughi in fuga dal conflitto sia nell'ambito del Meccanismo Unionale di Protezione Civile, sia di accordi bilaterali.
+Sulla base delle richieste di assistenza internazionale, il Dipartimento coordina la ricognizione e l'invio delle risorse disponibili di Componenti, Strutture operative e soggetti concorrenti del Servizio Nazionale di Protezione Civile.
+Nell'ambito dell'emergenza, il Dipartimento sta inoltre garantendo l'evacuazione medica MedEvac-Medical Evacuation – anche con modulo DisEvac-Disability Evacuation – di pazienti con necessità di assistenza specialistica, trasportati in Italia e ricoverati in diversi centri nazionali.</dct:description>
+    <dct:identifier>PCM:humanitarian-aid</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100183"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-16</dct:modified>
+    <dct:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-19</dct:issue>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dcat:keyword>Ucraina</dcat:keyword>
+    <dcat:keyword>assistenza umanitaria</dcat:keyword>
+    <dcat:keyword>profughi</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid/csv8"/>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid/json9"/>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid/geojson12"/>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid/geojson13"/>
+  </dcatapit:Dataset>
+  <dcatapit:Dataset rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/temporary-protection">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+    <dct:license/>
+    <dct:title>Protezione temporanea</dct:title>
+    <dct:landingpage>https://github.com/pcm-dpc/UKR-2022/tree/master/data/temporary-protection</dct:landingpage>
+    <dct:description>All'arrivo in Italia, le persone in fuga dalla guerra in Ucraina possono presentare richiesta di permesso di soggiorno per protezione temporanea presso gli Uffici immigrazione delle Questure.</dct:description>
+    <dct:identifier>PCM:temporary-protection</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/WEEKLY"/>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:about="PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>PCM</dct:identifier>
+        <foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100183"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-16</dct:modified>
+    <dct:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-19</dct:issue>
+    <dcat:contactPoint rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+    <dcat:keyword>Ucraina</dcat:keyword>
+    <dcat:keyword>permesso di soggiorno</dcat:keyword>
+    <dcat:keyword>protezione temporanea</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/temporary-protection/csv10"/>
+    <dcat:distribution rdf:resource="https://github.com/pcm-dpc/UKR-2022/tree/master/data/temporary-protection/json11"/>
+  </dcatapit:Dataset>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/border-entry/csv2">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/border-entry/dpc-ukr-2022--border-entry.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>Border entry CSV</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/border-entry/json3">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/border-entry/dpc-ukr-2022--border-entry.json"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+    <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+    <dct:title>Border entry JSON</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/subsistence-allowance/csv4">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/subsistence-allowance/dpc-ukr-2022--subsistence-allowance.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>subsistence-allowance CSV</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/subsistence-allowance/json5">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/subsistence-allowance/dpc-ukr-2022--subsistence-allowance.json"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+    <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+    <dct:title>subsistence-allowance JSON</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/expressions-of-interest-diffused-hospitality/csv6">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/expression-interest-diffused-hospitality/dpc-ukr-2022--expression-interest-diffused-hospitality-applications.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>expression-interest-diffused-hospitality CSV</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/expressions-of-interest-diffused-hospitality/json7">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/expression-interest-diffused-hospitality/dpc-ukr-2022--expression-interest-diffused-hospitality-applications.json"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+    <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+    <dct:title>expression-interest-diffused-hospitality JSON</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid/csv8">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/humanitarian-aid/dpc-ukr-2022--humanitarian-aid.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>humanitarian-aid CSV</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid/json9">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/humanitarian-aid/dpc-ukr-2022--humanitarian-aid.json"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+    <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+    <dct:title>humanitarian-aid JSON</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid/geojson12">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/humanitarian-aid/dpc-ukr-2022--humanitarian-aid-geo.geojson"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="GEOJSON"/>
+    <dct:description>File in formato GeoJSON per l'interoperabilità</dct:description>
+    <dct:title>humanitarian-aid GEOJSON</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/humanitarian-aid/geojson13">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/humanitarian-aid/dpc-ukr-2022--humanitarian-aid-geo.json"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="GEOJSON"/>
+    <dct:description>File in formato TopoJSON per l'interoperabilità</dct:description>
+    <dct:title>humanitarian-aid TOPOJSON</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/temporary-protection/csv10">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/temporary-protection/dpc-ukr-2022--temporary-protection.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>temporary-protection CSV</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/UKR-2022/tree/master/data/temporary-protection/json11">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/UKR-2022/master/data/temporary-protection/dpc-ukr-2022--temporary-protection.json"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+    <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+    <dct:title>temporary-protection JSON</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/JUST">
+    <skos:prefLabel>Giustizia, sistema giuridico e sicurezza pubblica</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://eurovoc.europa.eu/100183">
+    <skos:prefLabel xml:lang="it">1231 diritto internazionale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/JUST">
+    <skos:prefLabel>Giustizia, sistema giuridico e sicurezza pubblica</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://eurovoc.europa.eu/100183">
+    <skos:prefLabel xml:lang="it">1231 diritto internazionale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/JUST">
+    <skos:prefLabel>Giustizia, sistema giuridico e sicurezza pubblica</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://eurovoc.europa.eu/100183">
+    <skos:prefLabel xml:lang="it">1231 diritto internazionale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/JUST">
+    <skos:prefLabel>Giustizia, sistema giuridico e sicurezza pubblica</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://eurovoc.europa.eu/100183">
+    <skos:prefLabel xml:lang="it">1231 diritto internazionale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/JUST">
+    <skos:prefLabel>Giustizia, sistema giuridico e sicurezza pubblica</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://eurovoc.europa.eu/100183">
+    <skos:prefLabel xml:lang="it">1231 diritto internazionale</skos:prefLabel>
+  </skos:Concept>
+<dcatapit:Organization rdf:about="https://emergenze.protezionecivile.gov.it/it/umanitarie">
+  <rdf:type rdf:resource="vcard:Organization"/>
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+  <rdf:type rdf:resource="vcard:Kind"/>
+  <vcard:fn>PCM - Dipartimento della Protezione Civile</vcard:fn>
+  <vcard:hasEmail rdf:resource="sistemainformativoterritoriale@protezionecivile.it"/>
+  <vcard:hasTelephone>800840840</vcard:hasTelephone>
+  <vcard:hasURL rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
+</dcatapit:Organization>
+</rdf:RDF>
