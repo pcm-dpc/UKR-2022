@@ -432,7 +432,7 @@ Nell'ambito dell'emergenza, il Dipartimento sta inoltre garantendo l'evacuazione
   <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
   <rdf:type rdf:resource="vcard:Kind"/>
   <vcard:fn>PCM - Dipartimento della Protezione Civile</vcard:fn>
-  <vcard:hasEmail rdf:resource="sistemainformativoterritoriale@protezionecivile.it"/>
+  <vcard:hasEmail rdf:resource="opendata@protezionecivile.it"/>
   <vcard:hasTelephone>800840840</vcard:hasTelephone>
   <vcard:hasURL rdf:resource="https://emergenze.protezionecivile.gov.it/it/umanitarie"/>
 </dcatapit:Organization>
