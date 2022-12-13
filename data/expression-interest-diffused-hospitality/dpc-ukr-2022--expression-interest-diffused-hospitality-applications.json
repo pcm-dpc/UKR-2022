@@ -1,332 +1,332 @@
 [
-   {
-      "nuts_2":"ITF1",
-      "region":"Abruzzo",
-      "facility_type":"Famiglia",
-      "places":36
-   },
-   {
-      "nuts_2":"ITF1",
-      "region":"Abruzzo",
-      "facility_type":"Appartamento",
-      "places":113
-   },
-   {
-      "nuts_2":"ITF1",
-      "region":"Abruzzo",
-      "facility_type":"Altra tipologia",
-      "places":43
-   },
-   {
-      "nuts_2":"ITF5",
-      "region":"Basilicata",
-      "facility_type":"Famiglia",
-      "places":15
-   },
-   {
-      "nuts_2":"ITF5",
-      "region":"Basilicata",
-      "facility_type":"Appartamento",
-      "places":455
-   },
-   {
-      "nuts_2":"ITF6",
-      "region":"Calabria",
-      "facility_type":"Famiglia",
-      "places":254
-   },
-   {
-      "nuts_2":"ITF6",
-      "region":"Calabria",
-      "facility_type":"Appartamento",
-      "places":2748
-   },
-   {
-      "nuts_2":"ITF6",
-      "region":"Calabria",
-      "facility_type":"Altra tipologia",
-      "places":1041
-   },
-   {
-      "nuts_2":"ITF3",
-      "region":"Campania",
-      "facility_type":"Famiglia",
-      "places":571
-   },
-   {
-      "nuts_2":"ITF3",
-      "region":"Campania",
-      "facility_type":"Appartamento",
-      "places":2878
-   },
-   {
-      "nuts_2":"ITF3",
-      "region":"Campania",
-      "facility_type":"Altra tipologia",
-      "places":862
-   },
-   {
-      "nuts_2":"ITH5",
-      "region":"Emilia-Romagna",
-      "facility_type":"Famiglia",
-      "places":478
-   },
-   {
-      "nuts_2":"ITH5",
-      "region":"Emilia-Romagna",
-      "facility_type":"Appartamento",
-      "places":392
-   },
-   {
-      "nuts_2":"ITH5",
-      "region":"Emilia-Romagna",
-      "facility_type":"Altra tipologia",
-      "places":166
-   },
-   {
-      "nuts_2":"ITH4",
-      "region":"Friuli-Venezia Giulia",
-      "facility_type":"Famiglia",
-      "places":30
-   },
-   {
-      "nuts_2":"ITH4",
-      "region":"Friuli-Venezia Giulia",
-      "facility_type":"Appartamento",
-      "places":51
-   },
-   {
-      "nuts_2":"ITH4",
-      "region":"Friuli-Venezia Giulia",
-      "facility_type":"Altra tipologia",
-      "places":3
-   },
-   {
-      "nuts_2":"ITI4",
-      "region":"Lazio",
-      "facility_type":"Famiglia",
-      "places":1668
-   },
-   {
-      "nuts_2":"ITI4",
-      "region":"Lazio",
-      "facility_type":"Appartamento",
-      "places":2138
-   },
-   {
-      "nuts_2":"ITI4",
-      "region":"Lazio",
-      "facility_type":"Altra tipologia",
-      "places":217
-   },
-   {
-      "nuts_2":"ITC3",
-      "region":"Liguria",
-      "facility_type":"Famiglia",
-      "places":37
-   },
-   {
-      "nuts_2":"ITC3",
-      "region":"Liguria",
-      "facility_type":"Appartamento",
-      "places":65
-   },
-   {
-      "nuts_2":"ITC3",
-      "region":"Liguria",
-      "facility_type":"Altra tipologia",
-      "places":19
-   },
-   {
-      "nuts_2":"ITC4",
-      "region":"Lombardia",
-      "facility_type":"Famiglia",
-      "places":925
-   },
-   {
-      "nuts_2":"ITC4",
-      "region":"Lombardia",
-      "facility_type":"Appartamento",
-      "places":701
-   },
-   {
-      "nuts_2":"ITC4",
-      "region":"Lombardia",
-      "facility_type":"Altra tipologia",
-      "places":256
-   },
-   {
-      "nuts_2":"ITI3",
-      "region":"Marche",
-      "facility_type":"Famiglia",
-      "places":56
-   },
-   {
-      "nuts_2":"ITI3",
-      "region":"Marche",
-      "facility_type":"Appartamento",
-      "places":48
-   },
-   {
-      "nuts_2":"ITI3",
-      "region":"Marche",
-      "facility_type":"Altra tipologia",
-      "places":20
-   },
-   {
-      "nuts_2":"ITF2",
-      "region":"Molise",
-      "facility_type":"Appartamento",
-      "places":52
-   },
-   {
-      "nuts_2":"ITF2",
-      "region":"Molise",
-      "facility_type":"Altra tipologia",
-      "places":18
-   },
-   {
-      "nuts_2":"ITH2",
-      "region":"P.A. Trento",
-      "facility_type":"Appartamento",
-      "places":34
-   },
-   {
-      "nuts_2":"ITH2",
-      "region":"P.A. Trento",
-      "facility_type":"Altra tipologia",
-      "places":15
-   },
-   {
-      "nuts_2":"ITC1",
-      "region":"Piemonte",
-      "facility_type":"Famiglia",
-      "places":91
-   },
-   {
-      "nuts_2":"ITC1",
-      "region":"Piemonte",
-      "facility_type":"Appartamento",
-      "places":687
-   },
-   {
-      "nuts_2":"ITC1",
-      "region":"Piemonte",
-      "facility_type":"Altra tipologia",
-      "places":137
-   },
-   {
-      "nuts_2":"ITF4",
-      "region":"Puglia",
-      "facility_type":"Famiglia",
-      "places":157
-   },
-   {
-      "nuts_2":"ITF4",
-      "region":"Puglia",
-      "facility_type":"Appartamento",
-      "places":1756
-   },
-   {
-      "nuts_2":"ITF4",
-      "region":"Puglia",
-      "facility_type":"Altra tipologia",
-      "places":504
-   },
-   {
-      "nuts_2":"ITG2",
-      "region":"Sardegna",
-      "facility_type":"Famiglia",
-      "places":38
-   },
-   {
-      "nuts_2":"ITG2",
-      "region":"Sardegna",
-      "facility_type":"Appartamento",
-      "places":406
-   },
-   {
-      "nuts_2":"ITG2",
-      "region":"Sardegna",
-      "facility_type":"Altra tipologia",
-      "places":140
-   },
-   {
-      "nuts_2":"ITG1",
-      "region":"Sicilia",
-      "facility_type":"Famiglia",
-      "places":516
-   },
-   {
-      "nuts_2":"ITG1",
-      "region":"Sicilia",
-      "facility_type":"Appartamento",
-      "places":2292
-   },
-   {
-      "nuts_2":"ITG1",
-      "region":"Sicilia",
-      "facility_type":"Altra tipologia",
-      "places":247
-   },
-   {
-      "nuts_2":"ITI1",
-      "region":"Toscana",
-      "facility_type":"Famiglia",
-      "places":171
-   },
-   {
-      "nuts_2":"ITI1",
-      "region":"Toscana",
-      "facility_type":"Appartamento",
-      "places":358
-   },
-   {
-      "nuts_2":"ITI1",
-      "region":"Toscana",
-      "facility_type":"Altra tipologia",
-      "places":147
-   },
-   {
-      "nuts_2":"ITI2",
-      "region":"Umbria",
-      "facility_type":"Famiglia",
-      "places":176
-   },
-   {
-      "nuts_2":"ITI2",
-      "region":"Umbria",
-      "facility_type":"Appartamento",
-      "places":373
-   },
-   {
-      "nuts_2":"ITI2",
-      "region":"Umbria",
-      "facility_type":"Altra tipologia",
-      "places":92
-   },
-   {
-      "nuts_2":"ITC2",
-      "region":"Valle d'Aosta",
-      "facility_type":"Appartamento",
-      "places":50
-   },
-   {
-      "nuts_2":"ITH3",
-      "region":"Veneto",
-      "facility_type":"Famiglia",
-      "places":920
-   },
-   {
-      "nuts_2":"ITH3",
-      "region":"Veneto",
-      "facility_type":"Appartamento",
-      "places":649
-   },
-   {
-      "nuts_2":"ITH3",
-      "region":"Veneto",
-      "facility_type":"Altra tipologia",
-      "places":100
-   }
+    {
+        "nuts_2": "ITF1",
+        "region": "Abruzzo",
+        "facility_type": "Famiglia",
+        "places": "36"
+    },
+    {
+        "nuts_2": "ITF1",
+        "region": "Abruzzo",
+        "facility_type": "Appartamento",
+        "places": "113"
+    },
+    {
+        "nuts_2": "ITF1",
+        "region": "Abruzzo",
+        "facility_type": "Altra tipologia",
+        "places": "43"
+    },
+    {
+        "nuts_2": "ITF5",
+        "region": "Basilicata",
+        "facility_type": "Famiglia",
+        "places": "15"
+    },
+    {
+        "nuts_2": "ITF5",
+        "region": "Basilicata",
+        "facility_type": "Appartamento",
+        "places": "455"
+    },
+    {
+        "nuts_2": "ITF6",
+        "region": "Calabria",
+        "facility_type": "Famiglia",
+        "places": "254"
+    },
+    {
+        "nuts_2": "ITF6",
+        "region": "Calabria",
+        "facility_type": "Appartamento",
+        "places": "2748"
+    },
+    {
+        "nuts_2": "ITF6",
+        "region": "Calabria",
+        "facility_type": "Altra tipologia",
+        "places": "1041"
+    },
+    {
+        "nuts_2": "ITF3",
+        "region": "Campania",
+        "facility_type": "Famiglia",
+        "places": "571"
+    },
+    {
+        "nuts_2": "ITF3",
+        "region": "Campania",
+        "facility_type": "Appartamento",
+        "places": "2878"
+    },
+    {
+        "nuts_2": "ITF3",
+        "region": "Campania",
+        "facility_type": "Altra tipologia",
+        "places": "862"
+    },
+    {
+        "nuts_2": "ITH5",
+        "region": "Emilia-Romagna",
+        "facility_type": "Famiglia",
+        "places": "478"
+    },
+    {
+        "nuts_2": "ITH5",
+        "region": "Emilia-Romagna",
+        "facility_type": "Appartamento",
+        "places": "392"
+    },
+    {
+        "nuts_2": "ITH5",
+        "region": "Emilia-Romagna",
+        "facility_type": "Altra tipologia",
+        "places": "166"
+    },
+    {
+        "nuts_2": "ITH4",
+        "region": "Friuli-Venezia Giulia",
+        "facility_type": "Famiglia",
+        "places": "30"
+    },
+    {
+        "nuts_2": "ITH4",
+        "region": "Friuli-Venezia Giulia",
+        "facility_type": "Appartamento",
+        "places": "51"
+    },
+    {
+        "nuts_2": "ITH4",
+        "region": "Friuli-Venezia Giulia",
+        "facility_type": "Altra tipologia",
+        "places": "3"
+    },
+    {
+        "nuts_2": "ITI4",
+        "region": "Lazio",
+        "facility_type": "Famiglia",
+        "places": "1668"
+    },
+    {
+        "nuts_2": "ITI4",
+        "region": "Lazio",
+        "facility_type": "Appartamento",
+        "places": "2138"
+    },
+    {
+        "nuts_2": "ITI4",
+        "region": "Lazio",
+        "facility_type": "Altra tipologia",
+        "places": "217"
+    },
+    {
+        "nuts_2": "ITC3",
+        "region": "Liguria",
+        "facility_type": "Famiglia",
+        "places": "37"
+    },
+    {
+        "nuts_2": "ITC3",
+        "region": "Liguria",
+        "facility_type": "Appartamento",
+        "places": "65"
+    },
+    {
+        "nuts_2": "ITC3",
+        "region": "Liguria",
+        "facility_type": "Altra tipologia",
+        "places": "19"
+    },
+    {
+        "nuts_2": "ITC4",
+        "region": "Lombardia",
+        "facility_type": "Famiglia",
+        "places": "925"
+    },
+    {
+        "nuts_2": "ITC4",
+        "region": "Lombardia",
+        "facility_type": "Appartamento",
+        "places": "701"
+    },
+    {
+        "nuts_2": "ITC4",
+        "region": "Lombardia",
+        "facility_type": "Altra tipologia",
+        "places": "256"
+    },
+    {
+        "nuts_2": "ITI3",
+        "region": "Marche",
+        "facility_type": "Famiglia",
+        "places": "56"
+    },
+    {
+        "nuts_2": "ITI3",
+        "region": "Marche",
+        "facility_type": "Appartamento",
+        "places": "48"
+    },
+    {
+        "nuts_2": "ITI3",
+        "region": "Marche",
+        "facility_type": "Altra tipologia",
+        "places": "20"
+    },
+    {
+        "nuts_2": "ITF2",
+        "region": "Molise",
+        "facility_type": "Appartamento",
+        "places": "52"
+    },
+    {
+        "nuts_2": "ITF2",
+        "region": "Molise",
+        "facility_type": "Altra tipologia",
+        "places": "18"
+    },
+    {
+        "nuts_2": "ITH2",
+        "region": "P.A. Trento",
+        "facility_type": "Appartamento",
+        "places": "34"
+    },
+    {
+        "nuts_2": "ITH2",
+        "region": "P.A. Trento",
+        "facility_type": "Altra tipologia",
+        "places": "15"
+    },
+    {
+        "nuts_2": "ITC1",
+        "region": "Piemonte",
+        "facility_type": "Famiglia",
+        "places": "91"
+    },
+    {
+        "nuts_2": "ITC1",
+        "region": "Piemonte",
+        "facility_type": "Appartamento",
+        "places": "687"
+    },
+    {
+        "nuts_2": "ITC1",
+        "region": "Piemonte",
+        "facility_type": "Altra tipologia",
+        "places": "137"
+    },
+    {
+        "nuts_2": "ITF4",
+        "region": "Puglia",
+        "facility_type": "Famiglia",
+        "places": "157"
+    },
+    {
+        "nuts_2": "ITF4",
+        "region": "Puglia",
+        "facility_type": "Appartamento",
+        "places": "1756"
+    },
+    {
+        "nuts_2": "ITF4",
+        "region": "Puglia",
+        "facility_type": "Altra tipologia",
+        "places": "504"
+    },
+    {
+        "nuts_2": "ITG2",
+        "region": "Sardegna",
+        "facility_type": "Famiglia",
+        "places": "38"
+    },
+    {
+        "nuts_2": "ITG2",
+        "region": "Sardegna",
+        "facility_type": "Appartamento",
+        "places": "406"
+    },
+    {
+        "nuts_2": "ITG2",
+        "region": "Sardegna",
+        "facility_type": "Altra tipologia",
+        "places": "140"
+    },
+    {
+        "nuts_2": "ITG1",
+        "region": "Sicilia",
+        "facility_type": "Famiglia",
+        "places": "516"
+    },
+    {
+        "nuts_2": "ITG1",
+        "region": "Sicilia",
+        "facility_type": "Appartamento",
+        "places": "2292"
+    },
+    {
+        "nuts_2": "ITG1",
+        "region": "Sicilia",
+        "facility_type": "Altra tipologia",
+        "places": "247"
+    },
+    {
+        "nuts_2": "ITI1",
+        "region": "Toscana",
+        "facility_type": "Famiglia",
+        "places": "171"
+    },
+    {
+        "nuts_2": "ITI1",
+        "region": "Toscana",
+        "facility_type": "Appartamento",
+        "places": "358"
+    },
+    {
+        "nuts_2": "ITI1",
+        "region": "Toscana",
+        "facility_type": "Altra tipologia",
+        "places": "147"
+    },
+    {
+        "nuts_2": "ITI2",
+        "region": "Umbria",
+        "facility_type": "Famiglia",
+        "places": "176"
+    },
+    {
+        "nuts_2": "ITI2",
+        "region": "Umbria",
+        "facility_type": "Appartamento",
+        "places": "373"
+    },
+    {
+        "nuts_2": "ITI2",
+        "region": "Umbria",
+        "facility_type": "Altra tipologia",
+        "places": "92"
+    },
+    {
+        "nuts_2": "ITC2",
+        "region": "Valle d'Aosta",
+        "facility_type": "Appartamento",
+        "places": "50"
+    },
+    {
+        "nuts_2": "ITH3",
+        "region": "Veneto",
+        "facility_type": "Famiglia",
+        "places": "920"
+    },
+    {
+        "nuts_2": "ITH3",
+        "region": "Veneto",
+        "facility_type": "Appartamento",
+        "places": "649"
+    },
+    {
+        "nuts_2": "ITH3",
+        "region": "Veneto",
+        "facility_type": "Altra tipologia",
+        "places": "100"
+    }
 ]

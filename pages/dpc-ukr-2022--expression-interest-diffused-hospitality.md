@@ -58,6 +58,27 @@ Produzione Opendata e dashboard / Opendata production and dashboard: **Dipartime
 |**facility_type**|Tipo di struttura<br>Facility type|String|Appartamento|
 |**places**|Numero di posti offerti<br>Number of places offered|Number|0|
 
+### Risultati / Results
+**Directory:**  [expression-interest-diffused-hospitality](../data/expression-interest-diffused-hospitality/)<br>
+**Nome file / Filename (csv):** [dpc-ukr-2022--expression-interest-diffused-hospitality-status.csv](../data/expression-interest-diffused-hospitality/dpc-ukr-2022--expression-interest-diffused-hospitality-status.csv)<br>
+**Nome file / Filename (json):** [dpc-ukr-2022--expression-interest-diffused-hospitality-status.json](../data/expression-interest-diffused-hospitality/dpc-ukr-2022--expression-interest-diffused-hospitality-status.json)<br>
+
+|Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
+|-|-|-|-|
+|**nuts_1**|Codice NUTS 1<br>NUTS 1 Code|String<br>[Mappa/Map](https://ec.europa.eu/statistical-atlas/viewer/?config=typologies.json&ch=NUTS,NUTS2021&mids=BKGCNT,NUTS2021L1,CNTOVL&o=1,1,0.7&center=50.00754,19.98211,3&lcis=NUTS2021L1&)|ITI|
+|**area**|Area d'Italia<br>Italy Area|String|Centro|
+|**nuts_2**|Codice NUTS 2<br>NUTS 2 Code|String<br>[Mappa/Map](https://ec.europa.eu/statistical-atlas/viewer/?config=typologies.json&ch=NUTS,NUTS2021&mids=BKGCNT,NUTS2021L2,CNTOVL&o=1,1,0.7&center=50.00754,19.98211,3&lcis=NUTS2021L2&)|ITI4|
+|**region**|Region<br>Regione|String|Lazio|
+|**nuts_3**|Codice NUTS 3<br>NUTS 3 Code|String<br>[Mappa/Map](https://ec.europa.eu/statistical-atlas/viewer/?config=typologies.json&ch=NUTS,NUTS2021&mids=BKGCNT,NUTS2021L3,CNTOVL&o=1,1,0.7&center=50.00754,19.98211,3&lcis=NUTS2021L3&)|ITI43|
+|**province**|Provincia<br>Province|String|Roma|
+|**cadastral_code**|Codice catastale del Comune<br>Municipality cadastral code|String<br>[Dataset](https://www.istat.it/it/archivio/6789)|H501|
+|**municipality**|Comune<br>Municipality|String<br>[Dataset](https://www.istat.it/it/archivio/6789)|Roma|
+|**proposing_subject**|Soggetto proponente<br>Proposing subject|String|Organizzazione XYZ|
+|**status**|Stato della convenzione<br>Status of the agreement|String|Attivato con convenzione|
+|**facility_type**|Tipo di struttura<br>Facility type|String|Appartamento|
+|**facility_type_other**|Dettaglio del tipo di struttura se valorizzato a Altro<br>Detail of the facility type if valorised to Other|String|Struttura...|
+|**total_places**|Numero di posti offerti<br>Number of places offered|Number|0|
+
 ## Licenza / License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)<br>

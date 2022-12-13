@@ -1,0 +1,553 @@
+nuts_1,area,nuts_2,region,nuts_3,province,istat_code,municipality,proposing_subject,status,place_total,category,other_category
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,A673,Barone Canavese,Liberitutti Coop. Sociale,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,B435,Caluso,Liberitutti Coop. Sociale,Attivato con convenzione,7,Altra tipologia,Casa singola
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,B435,Caluso,Liberitutti Coop. Sociale,Attivato con convenzione,6,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,C497,Ceres,Liberitutti Coop. Sociale,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,C627,Chieri,Liberitutti Coop. Sociale,Attivato con convenzione,8,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,E216,Grugliasco,Liberitutti Coop. Sociale,Attivato con convenzione,25,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,E817,Maglione,Liberitutti Coop. Sociale,Attivato con convenzione,3,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,E817,Maglione,Liberitutti Coop. Sociale,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,F067,Mazzè,Liberitutti Coop. Sociale,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,F067,Mazzè,Liberitutti Coop. Sociale,Attivato con convenzione,14,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,F182,Mezzenile,Liberitutti Coop. Sociale,Attivato con convenzione,5,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,G387,Pavarolo,Liberitutti Coop. Sociale,Attivato con convenzione,14,Altra tipologia,Villa
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,G387,Pavarolo,Liberitutti Coop. Sociale,Attivato con convenzione,6,Altra tipologia,Villa in famiglia
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,G387,Pavarolo,Liberitutti Coop. Sociale,Attivato con convenzione,6,Altra tipologia,Villetta
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,G387,Pavarolo,Liberitutti Coop. Sociale,Attivato con convenzione,3,Appartamento,Appartamento di una villa occupata da una famiglia ospitante
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,G678,Pino Torinese,Liberitutti Coop. Sociale,Attivato con convenzione,6,Altra tipologia,Alloggio autonoma
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,G678,Pino Torinese,Liberitutti Coop. Sociale,Attivato con convenzione,17,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,H936,San Giusto Canavese,Comunita' Papa Giovanni XXIII,Attivato con convenzione,6,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,H936,San Giusto Canavese,Liberitutti Coop. Sociale,Attivato con convenzione,3,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,H936,San Giusto Canavese,Liberitutti Coop. Sociale,Attivato con convenzione,12,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,I970,Strambino,Liberitutti Coop. Sociale,Attivato con convenzione,2,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,L219,Torino,Liberitutti Coop. Sociale,Attivato con convenzione,30,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,M094,Viù,Liberitutti Coop. Sociale,Attivato con convenzione,9,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,M094,Viù,Liberitutti Coop. Sociale,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,A859,Biella,CARITAS,Attivato con convenzione,6,APPARTAMENTO,PRONTA DISPONIBILITA' DAL 1/7
+ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,G820,Ponderano,CARITAS,Attivato con convenzione,8,APPARTAMENTO,PRONTA DISPONIBILITA' 
+ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,G820,Ponderano,CARITAS,Attivato con convenzione,15,APPARTAMENTO IN STRUTTURA ,PRONTA DISPONIBILITA' DAL 1/7/22
+ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,L785,Verrone,Comunita' Papa Giovanni XXIII,Attivato con convenzione,8,Altra tipologia,sede apg23
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,A571,Bagnolo Piemonte,Liberitutti Coop. Sociale,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,A660,Barge,Liberitutti Coop. Sociale,Attivato con convenzione,5,Appartamento,Casa Parrocchiale
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,B111,Bra,Comunita' Papa Giovanni XXIII,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,B719,Caraglio,Comunita' Papa Giovanni XXIII,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,B719,Caraglio,Liberitutti Coop. Sociale,Attivato con convenzione,2,Appartamento,Mansarda
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,B841,Carrù,Liberitutti Coop. Sociale,Attivato con convenzione,8,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,D120,Costigliole Saluzzo,Liberitutti Coop. Sociale,Attivato con convenzione,2,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,D372,Dronero,Liberitutti Coop. Sociale,Attivato con convenzione,16,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,D372,Dronero,Liberitutti Coop. Sociale,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,D742,Fossano,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,E327,Isasca,Liberitutti Coop. Sociale,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,F405,Montaldo di Mondovì,Liberitutti Coop. Sociale,Attivato con convenzione,24,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,G302,Pamparato,Liberitutti Coop. Sociale,Attivato con convenzione,16,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,G575,Piasco,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Altra tipologia,sede apg23
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,H247,Revello,Comunita' Papa Giovanni XXIII,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,H378,Roburent,Liberitutti Coop. Sociale,Attivato con convenzione,8,Altra tipologia,Casa con servizi in comune
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,H385,Roccabruna,Liberitutti Coop. Sociale,Attivato con convenzione,10,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,H385,Roccabruna,Liberitutti Coop. Sociale,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,H578,Rossana,Liberitutti Coop. Sociale,Attivato con convenzione,6,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,H727,Saluzzo,Comunita' Papa Giovanni XXIII,Attivato con convenzione,9,Altra tipologia,sede apg23
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,L427,Trinità,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,L729,Venasca,Liberitutti Coop. Sociale,Attivato con convenzione,13,Appartamento,
+ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,G593,Piea,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,A182,Alessandria,ARCI,Attivato con convenzione,8,Famiglia,
+ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,E290,Imperia,ARCI,Attivato con convenzione,6,Appartamento,
+ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,F290,Molini di Triora,ARCI,Attivato con convenzione,6,Appartamento,
+ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,I138,Sanremo,ARCI,Attivato con convenzione,15,Altra tipologia,ex edificio scolastico
+ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,D969,Genova,ARCI,Attivato con convenzione,20,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,A619,Barasso,CARITAS,Attivato con convenzione,2,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,B300,Busto Arsizio,CARITAS,Attivato con convenzione,13,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,C922,Comerio,CARITAS,Attivato con convenzione,8,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,D946,Gavirate,CARITAS,Attivato con convenzione,10,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,F736,Mornago,CARITAS,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,I441,Saronno,CSV Monza Lecco Sondrio,Attivato con convenzione,15,Altra tipologia,Ostello
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,L032,Taino,CARITAS,Attivato con convenzione,10,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,L682,Varese,CARITAS,Attivato con convenzione,9,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,B639,Cantù,CARITAS,Attivato con convenzione,20,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,B977,Casnate con Bernate,Comunita' Papa Giovanni XXIII,Attivato con convenzione,15,Altra tipologia,sede Associazione Lombarda Insieme Verso Nuovi Orizzonti 
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,D416,Erba,CARITAS,Attivato con convenzione,10,Altra tipologia,Casa per Ferie - Casa di Spiritualità
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,D416,Erba,CARITAS,Attivato con convenzione,15,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,D445,Eupilio,CARITAS,Attivato con convenzione,8,Altra tipologia,Casa religiosa di spiritualità
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,A112,Airuno,CSV Monza Lecco Sondrio,Attivato con convenzione,1,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,A686,Barzanò,CSV Monza Lecco Sondrio,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,A687,Barzio,CARITAS,Attivato con convenzione,10,Centro collettivo,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,A745,Bellano,CARITAS,Attivato con convenzione,3,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,B396,Calco,CARITAS,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,B423,Calolziocorte,CSV Monza Lecco Sondrio,Attivato con convenzione,15,Altra tipologia,Struttura di accoglienza
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,B423,Calolziocorte,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,B937,Casargo,CSV Monza Lecco Sondrio,Attivato con convenzione,15,Altra tipologia,Centro di formazione professionale
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,B937,Casargo,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,B943,Casatenovo,CSV Monza Lecco Sondrio,Attivato con convenzione,3,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,B943,Casatenovo,CSV Monza Lecco Sondrio,Attivato con convenzione,8,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,B996,Cassago Brianza,CSV Monza Lecco Sondrio,Attivato con convenzione,6,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,C752,Civate,CSV Monza Lecco Sondrio,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,E507,Lecco,CARITAS,Attivato con convenzione,15,Centro collettivo,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,E507,Lecco,CSV Monza Lecco Sondrio,Attivato con convenzione,14,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,E507,Lecco,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,E656,Lomagna,CSV Monza Lecco Sondrio,Attivato con convenzione,3,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,E656,Lomagna,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,E858,Malgrate,CSV Monza Lecco Sondrio,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,F133,Merate,CSV Monza Lecco Sondrio,Attivato con convenzione,5,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,F248,Missaglia,CARITAS,Attivato con convenzione,5,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,F248,Missaglia,CSV Monza Lecco Sondrio,Attivato con convenzione,3,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,F248,Missaglia,CSV Monza Lecco Sondrio,Attivato con convenzione,6,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,G026,Olgiate Molgora,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,G161,Osnago,CARITAS,Attivato con convenzione,3,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,G218,Paderno d'Adda,CSV Monza Lecco Sondrio,Attivato con convenzione,4,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,G223,Robbiate,CSV Monza Lecco Sondrio,Attivato con convenzione,6,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,G223,Robbiate,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,I761,Sirtori,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,M337,Verderio,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,C325,Castione Andevenno,CSV Monza Lecco Sondrio,Attivato con convenzione,12,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,G576,Piateda,CSV Monza Lecco Sondrio,Attivato con convenzione,6,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,I829,Sondrio,CSV Monza Lecco Sondrio,Attivato con convenzione,15,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,L749,Verceia,CSV Monza Lecco Sondrio,Attivato con convenzione,6,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,A794,Bergamo,ARCI,Attivato con convenzione,15,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,B091,Botticino,CARITAS,Attivato con convenzione,8,Altra tipologia,6 stanze in struttura delle suore Casa Madre, abitata dalle suore, cucina, sala da pranzo elavanderia in comune con la comunità delle suore, per sole donne e/o nuclei monoparentali, no animali
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,B091,Botticino,CARITAS,Attivato con convenzione,9,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,B157,Brescia,CARITAS,Attivato con convenzione,13,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,C618,Chiari,CARITAS,Attivato con convenzione,6,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,D058,Corte Franca,CARITAS,Attivato con convenzione,9,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,D434,Esine,CARITAS,Attivato con convenzione,8,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,E116,Gottolengo,CARITAS,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,E706,Lozio,CARITAS,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,E967,Marone,CARITAS,Attivato con convenzione,8,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,G061,Ome,CARITAS,Attivato con convenzione,2,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,L919,Villa Carcina,CARITAS,Attivato con convenzione,15,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,B142,Breme,ARCI,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,G388,Pavia,ARCI,Attivato con convenzione,6,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,I014,San Martino Siccomario,ARCI,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,E648,Lodi,Comunita' Papa Giovanni XXIII,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,F801,Mulazzano,GEA Coop Sociale,Attivato con convenzione,6,Altra Struttura,Casa
+ITC,Nord-ovest,ITC4,Lombardia,ITC4A,Cremona,D142,Crema,CARITAS,Attivato con convenzione,15,Altra tipologia,Struttura per accoglienza diocesana (centro di spiritualità). Camere singole/doppie/triple tutte con bagno. Cucina, sala, porticato e giardino da pranzo in comune
+ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,E897,Mantova,ARCI,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,A751,Bellinzago Lombardo,ARCI,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,A940,Bollate,CSV Monza Lecco Sondrio,Attivato con convenzione,11,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,A940,Bollate,CSV Monza Lecco Sondrio,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,B850,Carugate,ARCI,Attivato con convenzione,3,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,C014,Cassina de' Pecchi,ARCI,Attivato con convenzione,7,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,C523,Cernusco sul Naviglio,ARCI,Attivato con convenzione,4,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,C707,Cinisello Balsamo,CSV Monza Lecco Sondrio,Attivato con convenzione,9,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,F205,Milano,ARCI,Attivato con convenzione,5,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,F205,Milano,ARCI,Attivato con convenzione,81,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,F205,Milano,CARITAS,Attivato con convenzione,8,Altra tipologia,Casa singola su due livelli
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,F205,Milano,CARITAS,Attivato con convenzione,29,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,H470,Rodano,ARCI,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4C,Milano,I577,Segrate,ARCI,Attivato con convenzione,4,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,A087,Agrate Brianza,GEA Coop Sociale,Attivato con convenzione,12,Altra Struttura,casa 
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,A668,Barlassina,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,B187,Briosco,CSV Monza Lecco Sondrio,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,B212,Brugherio,CSV Monza Lecco Sondrio,Attivato con convenzione,8,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,B212,Brugherio,CSV Monza Lecco Sondrio,Attivato con convenzione,5,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,E530,Lentate sul Seveso,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,E591,Limbiate,CSV Monza Lecco Sondrio,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,E617,Lissone,CSV Monza Lecco Sondrio,Attivato con convenzione,21,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,E617,Lissone,CSV Monza Lecco Sondrio,Attivato con convenzione,7,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,F704,Monza,CARITAS,Attivato con convenzione,14,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,F704,Monza,CSV Monza Lecco Sondrio,Attivato con convenzione,5,Altra tipologia,Oratorio
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,F704,Monza,CSV Monza Lecco Sondrio,Attivato con convenzione,14,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,H537,Ronco Briantino,CSV Monza Lecco Sondrio,Attivato con convenzione,2,Famiglia,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,I625,Seregno,CARITAS,Attivato con convenzione,4,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,L434,Triuggio,CSV Monza Lecco Sondrio,Attivato con convenzione,16,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,L511,Usmate Velate,CSV Monza Lecco Sondrio,Attivato con convenzione,10,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,L704,Vedano al Lambro,CARITAS,Attivato con convenzione,7,Appartamento,
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,L709,Veduggio con Colzano,CARITAS,Attivato con convenzione,12,Altra tipologia,Casa singola su tre livelli
+ITC,Nord-ovest,ITC4,Lombardia,ITC4D,Monza e della Brianza,M052,Vimercate,CSV Monza Lecco Sondrio,Attivato con convenzione,6,Altra tipologia,Casa di accoglienza
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,E058,Giulianova,ARCI,Attivato con convenzione,15,Appartamento,
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,E343,Isola del Gran Sasso d'Italia,ARCI,Attivato con convenzione,19,Appartamento,
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,E343,Isola del Gran Sasso d'Italia,CARITAS,Attivato con convenzione,10,Altra tipologia,CASA DI ACCOGLIENZA
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,F585,Roseto degli Abruzzi,CARITAS,Attivato con convenzione,7,Appartamento,
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,F764,Mosciano Sant'Angelo,CARITAS,Attivato con convenzione,7,Appartamento,
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,L103,Teramo,CARITAS,Attivato con convenzione,15,Altra tipologia,CASA DI ACCOGLIENZA
+ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,L103,Teramo,CARITAS,Attivato con convenzione,7,Appartamento,
+ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,I649,Serramonacesca,ARCI,Attivato con convenzione,9,Altra tipolologia,
+ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,C632,Chieti,ARCI,Attivato con convenzione,29,Appartamento,
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,A930,Bojano,San Marco,Attivato con convenzione,15,Altra tipologia,collettiva
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,C854,Colle d'Anchise,San Marco,Attivato con convenzione,3,Appartamento,
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,E456,Larino,CARITAS,Attivato con convenzione,12,Altra tipologia,Struttura per accoglienza collettiva
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,E456,Larino,CARITAS,Attivato con convenzione,8,Appartamento,
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,I122,San Polo Matese,San Marco,Attivato con convenzione,10,Altra tipologia,collettiva
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,I618,Sepino,ARCI,Attivato con convenzione,12,Appartamento,
+ITF,Sud,ITF2,Molise,ITF22,Campobasso,I910,Spinete,San Marco,Attivato con convenzione,4,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,A512,Aversa,Apeiron,Attivato con convenzione,24,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,A512,Aversa,CARITAS,Attivato con convenzione,15,Altra tipologia,CENTRO DI ACCOGLIENZA
+ITF,Sud,ITF3,Campania,ITF31,Caserta,B715,Capua,Apeiron,Attivato con convenzione,30,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,C211,Castel Morrone,Apeiron,Attivato con convenzione,15,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,D886,Galluccio,ARCI,Attivato con convenzione,10,Famiglia,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,F352,Mondragone,Apeiron,Attivato con convenzione,25,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,H045,Presenzano,Apeiron,Attivato con convenzione,30,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,H798,San Cipriano d'Aversa,CARITAS,Attivato con convenzione,7,Altra tipologia,ISTITUTO RELIGIOSO
+ITF,Sud,ITF3,Campania,ITF31,Caserta,I056,San Nicola la Strada,Esculapio,Attivato con convenzione,10,Appartamento,miniappartamento da 2
+ITF,Sud,ITF3,Campania,ITF31,Caserta,I056,San Nicola la Strada,Esculapio,Attivato con convenzione,30,Appartamento,miniappartamento da 3
+ITF,Sud,ITF3,Campania,ITF31,Caserta,I056,San Nicola la Strada,Esculapio,Attivato con convenzione,100,Appartamento,miniappartamento da 4
+ITF,Sud,ITF3,Campania,ITF31,Caserta,I233,Santa Maria a Vico,Apeiron,Attivato con convenzione,30,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,I676,Sessa Aurunca,Apeiron,Attivato con convenzione,10,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,M260,Casapesenna,Apeiron,Attivato con convenzione,40,Appartamento,
+ITF,Sud,ITF3,Campania,ITF31,Caserta,M260,Casapesenna,CARITAS,Attivato con convenzione,4,Altra tipologia,casa canonica
+ITF,Sud,ITF3,Campania,ITF32,Benevento,A970,Bonea,Esculapio,Attivato con convenzione,14,Appartamento,appartamento da 14 ospiti
+ITF,Sud,ITF3,Campania,ITF32,Benevento,A970,Bonea,Esculapio,Attivato con convenzione,30,Appartamento,appartamento da 15 ospiti
+ITF,Sud,ITF3,Campania,ITF32,Benevento,C245,Castelpagano,San Marco,Attivato con convenzione,20,Appartamento,
+ITF,Sud,ITF3,Campania,ITF32,Benevento,C280,Castelvenere,Esculapio,Attivato con convenzione,16,Appartamento,appartamento da 2 ospiti
+ITF,Sud,ITF3,Campania,ITF32,Benevento,C280,Castelvenere,Esculapio,Attivato con convenzione,24,Appartamento,appartamento da 3 ospiti
+ITF,Sud,ITF3,Campania,ITF32,Benevento,C476,Ceppaloni,Esculapio,Attivato con convenzione,12,Appartamento,
+ITF,Sud,ITF3,Campania,ITF32,Benevento,C719,Circello,San Marco,Attivato con convenzione,15,Altra tipologia,collettiva camere doppie con servizi
+ITF,Sud,ITF3,Campania,ITF32,Benevento,C846,Colle Sannita,San Marco,Attivato con convenzione,20,Appartamento,
+ITF,Sud,ITF3,Campania,ITF32,Benevento,D756,Fragneto Monforte,San Marco,Attivato con convenzione,12,Altra tipologia,collettiva 
+ITF,Sud,ITF3,Campania,ITF32,Benevento,F636,Montesarchio,Esculapio,Attivato con convenzione,12,Appartamento,appartamento da 12 ospiti
+ITF,Sud,ITF3,Campania,ITF32,Benevento,F636,Montesarchio,Esculapio,Attivato con convenzione,45,Appartamento,appartamento da 15 ospiti
+ITF,Sud,ITF3,Campania,ITF32,Benevento,F636,Montesarchio,Esculapio,Attivato con convenzione,18,Appartamento,appartamento da 9 ospiti
+ITF,Sud,ITF3,Campania,ITF32,Benevento,H894,San Giorgio del Sannio,GEA Coop Sociale,Attivato con convenzione,15,altra tipologia,struttura conventuale con accesso indipendente
+ITF,Sud,ITF3,Campania,ITF32,Benevento,H894,San Giorgio del Sannio,GEA Coop Sociale,Attivato con convenzione,15,appartamento,struttura conventuale con accesso indipendente
+ITF,Sud,ITF3,Campania,ITF32,Benevento,H894,San Giorgio del Sannio,GEA Coop Sociale,Attivato con convenzione,10,famiglia,
+ITF,Sud,ITF3,Campania,ITF32,Benevento,I179,Santa Croce del Sannio,San Marco,Attivato con convenzione,11,Altra tipologia,collettiva
+ITF,Sud,ITF3,Campania,ITF32,Benevento,I179,Santa Croce del Sannio,San Marco,Attivato con convenzione,9,Appartamento,
+ITF,Sud,ITF3,Campania,ITF32,Benevento,I197,Sant'Agata de' Goti,Esculapio,Attivato con convenzione,24,Appartamento,appartamento per 12 ospiti
+ITF,Sud,ITF3,Campania,ITF33,Napoli,B076,Boscoreale,Apeiron,Attivato con convenzione,20,Appartamento,
+ITF,Sud,ITF3,Campania,ITF33,Napoli,B946,Casavatore,Apeiron,Attivato con convenzione,10,Appartemento,
+ITF,Sud,ITF3,Campania,ITF33,Napoli,D789,Frattamaggiore,CARITAS,Attivato con convenzione,5,APPARTAMENTO,
+ITF,Sud,ITF3,Campania,ITF33,Napoli,E054,Giugliano in Campania,Apeiron,Attivato con convenzione,6,Appartamento,
+ITF,Sud,ITF3,Campania,ITF33,Napoli,F839,Napoli,Apeiron,Attivato con convenzione,35,Altra tipologia,
+ITF,Sud,ITF3,Campania,ITF33,Napoli,F839,Napoli,Apeiron,Attivato con convenzione,11,Appartamento,
+ITF,Sud,ITF3,Campania,ITF33,Napoli,F839,Napoli,ARCI,Attivato con convenzione,11,Famiglia,
+ITF,Sud,ITF3,Campania,ITF33,Napoli,F839,Napoli,Umana solidarieta',Attivato con convenzione,20,APPARTAMENTO,
+ITF,Sud,ITF3,Campania,ITF33,Napoli,H114,Quarto,Apeiron,Attivato con convenzione,15,Appartamento,Bene Confiscato
+ITF,Sud,ITF3,Campania,ITF34,Avellino,A509,Avellino,CARITAS,Attivato con convenzione,15,Altra tipologia,CONVENTO
+ITF,Sud,ITF3,Campania,ITF34,Avellino,F566,Montemiletto,Apeiron,Attivato con convenzione,20,Appartamento,
+ITF,Sud,ITF3,Campania,ITF34,Avellino,L272,Torre Le Nocelle,Apeiron,Attivato con convenzione,8,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,A460,Ascea,Apeiron,Attivato con convenzione,15,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,C259,Castel San Giorgio,GEA Coop Sociale,Attivato con convenzione,12,appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,C485,Ceraso,Apeiron,Attivato con convenzione,15,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,E486,Laurito,Apeiron,Attivato con convenzione,15,Altra tipologia,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,F138,Mercato San Severino,GEA Coop Sociale,Attivato con convenzione,8,appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G063,Omignano,Apeiron,Attivato con convenzione,15,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G226,Padula,CARITAS,Attivato con convenzione,10,Altra tipologia,Struttura parrocchiale
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G230,Pagani,Apeiron,Attivato con convenzione,10,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G793,Polla,ARCI,Attivato con convenzione,15,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G793,Polla,CARITAS,Attivato con convenzione,30,Altra tipologia,Struttura parrocchiale
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G834,Pontecagnano Faiano,GEA Coop Sociale,Attivato con convenzione,6,Altra tipologia,villetta
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G834,Pontecagnano Faiano,GEA Coop Sociale,Attivato con convenzione,15,Altra tipologia,Villetta bifamiliare 
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G939,Postiglione,CARITAS,Attivato con convenzione,15,Altra tipologia,Struttura ricettiva
+ITF,Sud,ITF3,Campania,ITF35,Salerno,G939,Postiglione,CARITAS,Attivato con convenzione,30,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,H644,Rutino,Apeiron,Attivato con convenzione,15,Altra tipologia,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,H703,Salerno,GEA Coop Sociale,Attivato con convenzione,6,altra tipologia,struttura comunitaria
+ITF,Sud,ITF3,Campania,ITF35,Salerno,H703,Salerno,GEA Coop Sociale,Attivato con convenzione,6,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,I089,San Pietro al Tanagro,ARCI,Attivato con convenzione,10,Altra tipolologia,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,I089,San Pietro al Tanagro,ARCI,Attivato con convenzione,5,Appartamento,
+ITF,Sud,ITF3,Campania,ITF35,Salerno,I960,Stio,Esculapio,Attivato con convenzione,8,Appartamento,appartamento da 8 ospiti
+ITF,Sud,ITF3,Campania,ITF35,Salerno,I960,Stio,Esculapio,Attivato con convenzione,9,Appartamento,appartamento da 9 ospiti
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,A184,Alessano,CARITAS,Attivato con convenzione,8,Altra tipologia,Struttura di proprietà della Parrocchia SS.Salvatore
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,A184,Alessano,CARITAS,Attivato con convenzione,4,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,A184,Alessano,CARITAS,Attivato con convenzione,2,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,A281,Andrano,CARITAS,Attivato con convenzione,4,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,B690,Caprarica di Lecce,ARCI,Attivato con convenzione,5,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,B936,Casarano,CARITAS,Attivato con convenzione,2,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,C336,Castrignano del Capo,CARITAS,Attivato con convenzione,2,Altra tipologia,Appartamento della Parrocchia Cristo Re
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,C336,Castrignano del Capo,CARITAS,Attivato con convenzione,15,Altra tipologia,Struttura di proprietà delle Suore
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,C336,Castrignano del Capo,CARITAS,Attivato con convenzione,4,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,C336,Castrignano del Capo,CARITAS,Attivato con convenzione,4,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,C978,Copertino,Umana solidarieta',Attivato con convenzione,28,APPARTAMENTO,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,D044,Corsano,CARITAS,Attivato con convenzione,3,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,D044,Corsano,CARITAS,Attivato con convenzione,5,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,D851,Gagliano del Capo,CARITAS,Attivato con convenzione,10,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,D851,Gagliano del Capo,CARITAS,Attivato con convenzione,2,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,E506,Lecce,GEA Coop Sociale,Attivato con convenzione,30,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,E506,Lecce,Umana solidarieta',Attivato con convenzione,30,APPARTAMENTO,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,E563,Leverano,Umana solidarieta',Attivato con convenzione,12,APPARTAMENTO,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,F194,Miggiano,CARITAS,Attivato con convenzione,4,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,F623,Montesano Salentino,CARITAS,Attivato con convenzione,4,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,F623,Montesano Salentino,CARITAS,Attivato con convenzione,4,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,F716,Morciano di Leuca,CARITAS,Attivato con convenzione,11,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,H632,Ruffano,CARITAS,Attivato con convenzione,10,Altra tipologia,Struttura di proprietà della Parrocchia Chiesa Madre
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,H632,Ruffano,CARITAS,Attivato con convenzione,3,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,H729,Salve,CARITAS,Attivato con convenzione,10,Altra tipologia,Struttura di proprietà della Parrocchia S.Elia
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,H729,Salve,CARITAS,Attivato con convenzione,16,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,H729,Salve,CARITAS,Attivato con convenzione,3,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,I887,Specchia,CARITAS,Attivato con convenzione,7,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L008,Supersano,CARITAS,Attivato con convenzione,3,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L008,Supersano,CARITAS,Attivato con convenzione,3,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L064,Taurisano,CARITAS,Attivato con convenzione,3,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L166,Tiggiano,CARITAS,Attivato con convenzione,7,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L419,Tricase,CARITAS,Attivato con convenzione,12,Altra tipologia,Struttua di proprietà della Diocesi di Ugento-S.M. di Leuca
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L419,Tricase,CARITAS,Attivato con convenzione,3,Altra tipologia,Struttua di proprietà della Pia Fondazione Card. Panico
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L419,Tricase,CARITAS,Attivato con convenzione,13,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L419,Tricase,CARITAS,Attivato con convenzione,7,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L484,Ugento,CARITAS,Attivato con convenzione,6,Altra tipologia,Struttura di proprietà delle Suore Figlie della Carità
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,L484,Ugento,CARITAS,Attivato con convenzione,2,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF45,Lecce,M428,Presicce-Acquarica,CARITAS,Attivato con convenzione,4,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,A339,Apricena,Anolf Puglia,Attivato con convenzione,30,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,B904,Casalnuovo Monterotaro,Anolf Puglia,Attivato con convenzione,35,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,C222,Castelnuovo della Daunia,Anolf Puglia,Attivato con convenzione,35,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,C633,Chieuti,Anolf Puglia,Attivato con convenzione,25,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,E332,Ischitella,Anolf Puglia,Attivato con convenzione,30,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,E716,Lucera,Anolf Puglia,Attivato con convenzione,30,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,E716,Lucera,ARCI,Attivato con convenzione,22,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,G604,Pietramontecorvino,Anolf Puglia,Attivato con convenzione,35,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,I072,San Paolo di Civitate,Anolf Puglia,Attivato con convenzione,25,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,I641,Serracapriola,Anolf Puglia,Attivato con convenzione,25,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF46,Foggia,L273,Torremaggiore,Anolf Puglia,Attivato con convenzione,40,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF47,Bari,A048,Acquaviva delle Fonti,Comunita' Papa Giovanni XXIII,Attivato con convenzione,20,Appartamento,
+ITF,Sud,ITF4,Puglia,ITF47,Bari,A662,Bari,ARCI,Attivato con convenzione,34,Famiglia,
+ITF,Sud,ITF4,Puglia,ITF48,Barletta-Andria-Trani,A669,Barletta,GEA Coop Sociale,Attivato con convenzione,8,Altra Struttura,Santuario
+ITG,Isole,ITG2,Sardegna,ITG2D,Sassari,I614,Sennori,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Famiglia,
+ITG,Isole,ITG2,Sardegna,ITG2F,Cagliari,B354,Cagliari,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Altra tipologia,sede apg23
+ITG,Isole,ITG2,Sardegna,ITG2H,Sud Sardegna,B745,Carbonia,CARITAS,Attivato con convenzione,9,Appartamento,
+ITG,Isole,ITG2,Sardegna,ITG2H,Sud Sardegna,E281,Iglesias,CARITAS,Attivato con convenzione,19,Appartamento,
+ITH,Nord-est,ITH2,P.A. Trento,ITH20,P.A. Trento,M354,Castel Ivano,ARCI,Attivato con convenzione,8,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,A137,Albaredo d'Adige,CARITAS,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,C078,Castel d'Azzano,CARITAS,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,I775,Soave,CARITAS,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,L781,Verona,CARITAS,Attivato con convenzione,10,Altra tipologia,Stanze in comunità
+ITH,Nord-est,ITH3,Veneto,ITH31,Verona,L781,Verona,CARITAS,Attivato con convenzione,10,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,A377,Arcugnano,CSV Vicenza,Attivato con convenzione,7,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,A459,Arzignano,CSV Vicenza,Attivato con convenzione,5,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,A465,Asiago,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,A703,Bassano del Grappa,CSV Vicenza,Attivato con convenzione,3,APPARTAMENTO,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,A703,Bassano del Grappa,CSV Vicenza,Attivato con convenzione,10,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,B403,Caldogno,ARCI,Attivato con convenzione,5,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,B403,Caldogno,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,B485,Camisano Vicentino,CSV Vicenza,Attivato con convenzione,2,APPARTAMENTO,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,B485,Camisano Vicentino,CSV Vicenza,Attivato con convenzione,4,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,C037,Cassola,GEA Coop Sociale,Attivato con convenzione,2,Famiglia, (solo bambini)
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,C037,Cassola,GEA Coop Sociale,Attivato con convenzione,5,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,D107,Costabissara,CSV Vicenza,Attivato con convenzione,7,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,D136,Creazzo,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,E184,Grisignano di Zocco,GEA Coop Sociale,Attivato con convenzione,3,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,E354,Isola Vicentina,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,E682,Lonigo,CSV Vicenza,Attivato con convenzione,7,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,E970,Marostica,CSV Vicenza,Attivato con convenzione,10,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,F464,Montecchio Maggiore,CSV Vicenza,Attivato con convenzione,12,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,F675,Monticello Conte Otto,CSV Vicenza,Attivato con convenzione,3,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,F829,Mussolente,CSV Vicenza,Attivato con convenzione,3,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,F829,Mussolente,GEA Coop Sociale,Attivato con convenzione,3,Altra tipologia,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,F829,Mussolente,GEA Coop Sociale,Attivato con convenzione,1,Famiglia, (minore)
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,F829,Mussolente,GEA Coop Sociale,Attivato con convenzione,2,Famiglia,(minori o mamma/bambino)
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,F829,Mussolente,GEA Coop Sociale,Attivato con convenzione,2,Famiglia,(pref mamma/bambino)
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,F829,Mussolente,GEA Coop Sociale,Attivato con convenzione,34,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,G694,Piovene Rocchette,CSV Vicenza,Attivato con convenzione,4,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,G957,Pozzoleone,CSV Vicenza,Attivato con convenzione,1,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,H580,Rossano Veneto,GEA Coop Sociale,Attivato con convenzione,9,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,H829,Sandrigo,CSV Vicenza,Attivato con convenzione,15,ALTRA TIPOLOGIA,UNITÁ ABITATIVE
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,H829,Sandrigo,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,I430,Sarego,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,I527,Schiavon,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,I531,Schio,CSV Vicenza,Attivato con convenzione,13,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,I867,Sossano,CSV Vicenza,Attivato con convenzione,3,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,I879,Sovizzo,CSV Vicenza,Attivato con convenzione,3,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,L157,Thiene,Comunita' Papa Giovanni XXIII,Attivato con convenzione,2,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,L157,Thiene,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,L297,Torri di Quartesolo,CSV Vicenza,Attivato con convenzione,9,ALTRA TIPOLOGIA,STRUTTURA D'ACCOGLIENZA
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,L297,Torri di Quartesolo,CSV Vicenza,Attivato con convenzione,5,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,L433,Trissino,CSV Vicenza,Attivato con convenzione,2,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,L840,Vicenza,ARCI,Attivato con convenzione,1,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,L840,Vicenza,ARCI,Attivato con convenzione,4,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,L840,Vicenza,CSV Vicenza,Attivato con convenzione,32,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH32,Vicenza,M032,Villaverla,CSV Vicenza,Attivato con convenzione,4,FAMIGLIA,
+ITH,Nord-est,ITH3,Veneto,ITH33,Belluno,B662,Ponte nelle Alpi,Comunita' Papa Giovanni XXIII,Attivato con convenzione,15,Altra tipologia,sede Associazione Triveneta Insieme Verso Nuovi Orizzonti
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,C957,Conegliano,CARITAS,Attivato con convenzione,12,Altra tipologia,CASA DI ACCOGLIENZA
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,F999,Oderzo,CARITAS,Attivato con convenzione,10,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,M089,Vittorio Veneto,CARITAS,Attivato con convenzione,2,Altra tipologia,CASA DI ACCOGLIENZA
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,M089,Vittorio Veneto,CARITAS,Attivato con convenzione,4,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH34,Treviso,M089,Vittorio Veneto,CARITAS,Attivato con convenzione,3,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH35,Venezia,C638,Chioggia,GEA Coop Sociale,Attivato con convenzione,17,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,D956,Gazzo,GEA Coop Sociale,Attivato con convenzione,3,Appartamento,l'appartamento è da 6 - 3 sono destinati alla prefettura, 3 alla pc
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,D956,Gazzo,GEA Coop Sociale,Attivato con convenzione,4,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,F382,Monselice,GEA Coop Sociale,Attivato con convenzione,6,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,F529,Montegrotto Terme,GEA Coop Sociale,Attivato con convenzione,7,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,G224,Padova,ARCI,Attivato con convenzione,16,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,G224,Padova,ARCI,Attivato con convenzione,4,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,G224,Padova,GEA Coop Sociale,Attivato con convenzione,13,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,G224,Padova,GEA Coop Sociale,Attivato con convenzione,11,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,G587,Piazzola sul Brenta,GEA Coop Sociale,Attivato con convenzione,9,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH36,Padova,G688,Piombino Dese,GEA Coop Sociale,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH37,Rovigo,B069,Bosaro,Apeiron,Attivato con convenzione,13,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH37,Rovigo,F994,Occhiobello,Apeiron,Attivato con convenzione,4,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH37,Rovigo,H620,Rovigo,Apeiron,Attivato con convenzione,8,Famiglia,
+ITH,Nord-est,ITH3,Veneto,ITH37,Rovigo,I953,Stienta,Apeiron,Attivato con convenzione,7,Appartamento,
+ITH,Nord-est,ITH3,Veneto,ITH37,Rovigo,L026,Taglio di Po,Apeiron,Attivato con convenzione,2,Famiglia,
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,E584,Lignano Sabbiadoro,GEA Coop Sociale,Attivato con convenzione,43,Appartamento,
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,L483,Udine,GEA Coop Sociale,Attivato con convenzione,2,Altra tipologia,convitto
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,L483,Udine,GEA Coop Sociale,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH42,Udine,M400,Fiumicello Villa Vicentina,GEA Coop Sociale,Attivato con convenzione,17,Famiglia,
+ITH,Nord-est,ITH4,Friuli-Venezia Giulia,ITH43,Gorizia,E098,Gorizia,GEA Coop Sociale,Attivato con convenzione,17,Altra tipologia,pensionato
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,B332,Cadeo,CARITAS,Attivato con convenzione,5,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,G535,Piacenza,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,18,FAMIGLIA,POSTI NUOVI
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH51,Piacenza,G535,Piacenza,Dimora d'Abramo,Attivato con convenzione,8,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,B034,Fidenza,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,9,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,B034,Fidenza,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Famiglia,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,C852,Collecchio,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,2,Famiglia,POSTI NUOVI
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,D673,Fontanellato,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,2,Famiglia,POSTI NUOVI
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,G337,Parma,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,23,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,G337,Parma,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,21,Famiglia,POSTI NUOVI
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,H720,Salsomaggiore Terme,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,3,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,H720,Salsomaggiore Terme,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,6,Famiglia,POSTI NUOVI
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,L346,Traversetolo,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,6,Famiglia,POSTI NUOVI
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH52,Parma,M325,Sissa Trecasali,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,3,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,A162,Albinea,Dimora d'Abramo,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,A586,Baiso,Dimora d'Abramo,Attivato con convenzione,15,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,A988,Boretto,Dimora d'Abramo,Attivato con convenzione,13,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,B328,Cadelbosco di Sopra,Dimora d'Abramo,Attivato con convenzione,3,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,B499,Campagnola Emilia,CARITAS,Attivato con convenzione,5,Altra tipologia,Locali Canonica
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,B893,Casalgrande,Dimora d'Abramo,Attivato con convenzione,7,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,C405,Cavriago,CARITAS,Attivato con convenzione,6,Altra tipologia,Locali Canonica
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,D037,Correggio,Dimora d'Abramo,Attivato con convenzione,21,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,E253,Guastalla,CARITAS,Attivato con convenzione,17,Altra tipologia,Locali Canonica
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,E253,Guastalla,CARITAS,Attivato con convenzione,8,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,E772,Luzzara,Dimora d'Abramo,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,H223,Reggio nell'Emilia,CARITAS,Attivato con convenzione,11,Altra tipologia,Locali Canonica
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,H223,Reggio nell'Emilia,CARITAS,Attivato con convenzione,3,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,H223,Reggio nell'Emilia,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,13,Famiglia,POSTI NUOVI
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,H223,Reggio nell'Emilia,Dimora d'Abramo,Attivato con convenzione,15,Altra tipologia,Struttura Collettiva
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,H223,Reggio nell'Emilia,Dimora d'Abramo,Attivato con convenzione,18,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,I496,Scandiano,CARITAS,Attivato con convenzione,6,Altra tipologia,Locali Canonica
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,L820,Vezzano sul Crostolo,Dimora d'Abramo,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH53,Reggio nell'Emilia,L969,Villa Minozzo,Dimora d'Abramo,Attivato con convenzione,6,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,B819,Carpi,CARITAS,Attivato con convenzione,8,Altra tipologia,Alloggio all'interno di immobile comunale
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,B819,Carpi,Dimora d'Abramo,Attivato con convenzione,6,Altra tipologia,Struttura Collettiva
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,C242,Castelnuovo Rangone,Dimora d'Abramo,Attivato con convenzione,15,Altra tipologia,Struttura Collettiva
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,F240,Mirandola,CARITAS,Attivato con convenzione,5,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,F257,Modena,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,5,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,F257,Modena,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,15,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,F257,Modena,Dimora d'Abramo,Attivato con convenzione,14,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,I462,Sassuolo,CARITAS,Attivato con convenzione,12,Altra tipologia,Locali Canonica
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,I462,Sassuolo,CARITAS,Attivato con convenzione,5,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,I473,Savignano sul Panaro,Dimora d'Abramo,Attivato con convenzione,5,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH54,Modena,L885,Vignola,Dimora d'Abramo,Attivato con convenzione,15,Altra tipologia,Struttura Collettiva
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,A944,Bologna,CARITAS,Attivato con convenzione,20,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,A944,Bologna,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,75,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,B880,Casalecchio di Reno,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,16,Famiglia,Posti nuovi
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,C204,Castel Maggiore,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,6,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,C204,Castel Maggiore,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,1,Famiglia,Posti nuovi
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,C265,Castel San Pietro Terme,CARITAS,Attivato con convenzione,40,Appartamento,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,C265,Castel San Pietro Terme,CARITAS,Attivato con convenzione,10,Famiglia,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,C292,Castenaso,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,5,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,E136,Granarolo dell'Emilia,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,10,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,E136,Granarolo dell'Emilia,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,5,Famiglia,Posti nuovi
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,E289,Imola,CARITAS,Attivato con convenzione,8,Altra tipologia,Istituto religioso
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,E289,Imola,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,11,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,E289,Imola,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,1,Famiglia,Posti nuovi
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH55,Bologna,H945,San Lazzaro di Savena,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,7,Famiglia,Posti nuovi
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH56,Ferrara,A393,Argenta,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,5,Famiglia,ACCOGLIENZE ATTIVE
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH56,Ferrara,C469,Cento,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,3,Famiglia,ACCOGLIENZE ATTIVE
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH56,Ferrara,C469,Cento,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,2,FAMIGLIA,POSTI NUOVI
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH56,Ferrara,D548,Ferrara,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,10,Famiglia,ACCOGLIENZE ATTIVE
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,A547,Bagnacavallo,Comunita' Papa Giovanni XXIII,Attivato con convenzione,5,Famiglia,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,C065,Castel Bolognese,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Famiglia,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,D458,Faenza,Comunita' Papa Giovanni XXIII,Attivato con convenzione,5,Altra tipologia,sede apg23
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,D458,Faenza,Comunita' Papa Giovanni XXIII,Attivato con convenzione,7,Famiglia,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,H199,Ravenna,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,7,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,H199,Ravenna,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,18,Famiglia,Posti nuovi
+
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,H199,Ravenna,Comunita' Papa Giovanni XXIII,Attivato con convenzione,2,Altra tipologia,sede apg23
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,H199,Ravenna,Comunita' Papa Giovanni XXIII,Attivato con convenzione,1,Famiglia,
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH57,Ravenna,H642,Russi,Comunita' Papa Giovanni XXIII,Attivato con convenzione,2,Altra tipologia,sede apg23
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,A809,Bertinoro,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,5,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,C573,Cesena,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,9,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,C574,Cesenatico,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,5,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,D704,Forlì,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,10,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,D705,Forlimpopoli,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,5,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,D935,Gatteo,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,6,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,I027,San Mauro Pascoli,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,3,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH58,Forlì-Cesena,I472,Savignano sul Rubicone,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,1,Famiglia,ACCOGLIENZA ATTIVA
+ITH,Nord-est,ITH5,Emilia-Romagna,ITH59,Rimini,H294,Rimini,CIDAS Soc. Coop. A.R.L. Impresa Sociale,Attivato con convenzione,15,Famiglia,ACCOGLIENZE ATTIVE
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,B832,Carrara,CARITAS,Attivato con convenzione,6,Altra tipologia,Canonica
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,B832,Carrara,CARITAS,Attivato con convenzione,11,Famiglia,
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,C914,Comano,CARITAS,Attivato con convenzione,2,Famiglia,
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,F023,Massa,CARITAS,Attivato con convenzione,9,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,F023,Massa,CARITAS,Attivato con convenzione,5,Famiglia,
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,L946,Villafranca in Lunigiana,CARITAS,Attivato con convenzione,3,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI11,Massa-Carrara,L946,Villafranca in Lunigiana,CARITAS,Attivato con convenzione,2,Famiglia,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,A241,Altopascio,CARITAS,Attivato con convenzione,4,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,B007,Borgo a Mozzano,CARITAS,Attivato con convenzione,6,Altra tipologia,canonica
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,B455,Camaiore,CARITAS,Attivato con convenzione,15,Altra tipologia,canonica
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,B455,Camaiore,CARITAS,Attivato con convenzione,13,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,B455,Camaiore,CARITAS,Attivato con convenzione,6,Famiglia,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,B648,Capannori,CARITAS,Attivato con convenzione,12,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,C236,Castelnuovo di Garfagnana,CARITAS,Attivato con convenzione,4,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,E715,Lucca,CARITAS,Attivato con convenzione,10,Altra tipologia,canonica
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,E715,Lucca,CARITAS,Attivato con convenzione,4,Altra tipologia,Canonica
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,E715,Lucca,CARITAS,Attivato con convenzione,43,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,E715,Lucca,CARITAS,Attivato con convenzione,12,Famiglia,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,F035,Massarosa,CARITAS,Attivato con convenzione,11,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,L833,Viareggio,CARITAS,Attivato con convenzione,19,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI12,Lucca,M319,Fabbriche di Vergemoli,CARITAS,Attivato con convenzione,10,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,A071,Agliana,GEA Coop Sociale,Attivato con convenzione,6,APPARTAMENTO,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,A561,Montecatini-Terme,ARCI,Attivato con convenzione,15,Altra tipolologia,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,A561,Montecatini-Terme,ARCI,Attivato con convenzione,3,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,E960,Marliana,Comunita' Papa Giovanni XXIII,Attivato con convenzione,14,Altra tipologia,sede Associazione Insieme Verso Nuovi Orizzonti 
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,F025,Massa e Cozzile,ARCI,Attivato con convenzione,3,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,G491,Pescia,ARCI,Attivato con convenzione,15,Altra tipolologia,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,G491,Pescia,ARCI,Attivato con convenzione,10,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,G491,Pescia,GEA Coop Sociale,Attivato con convenzione,8,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,G713,Pistoia,ARCI,Attivato con convenzione,10,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,G713,Pistoia,Comunita' Papa Giovanni XXIII,Attivato con convenzione,6,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI13,Pistoia,G713,Pistoia,GEA Coop Sociale,Attivato con convenzione,5,Altra tipologia,foresteria
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,D299,Dicomano,GEA Coop Sociale,Attivato con convenzione,6,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,D612,Firenze,ARCI,Attivato con convenzione,3,Altra tipologia,casa famiglia
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,D612,Firenze,GEA Coop Sociale,Attivato con convenzione,6,Appartamento,casa colonica e ha una parte libera
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,D612,Firenze,GEA Coop Sociale,Attivato con convenzione,17,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,D612,Firenze,GEA Coop Sociale,Attivato con convenzione,17,Famiglia,
+ITI,Centro,ITI1,Toscana,ITI14,Firenze,L838,Vicchio,ARCI,Attivato con convenzione,3,Altra tipologia,casa famiglia
+ITI,Centro,ITI1,Toscana,ITI15,Prato,G999,Prato,GEA Coop Sociale,Attivato con convenzione,15,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI16,Livorno,C044,Castagneto Carducci,GEA Coop Sociale,Attivato con convenzione,6,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI16,Livorno,C415,Cecina,GEA Coop Sociale,Attivato con convenzione,6,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI16,Livorno,C415,Cecina,GEA Coop Sociale,Attivato con convenzione,11,Famiglia,
+ITI,Centro,ITI1,Toscana,ITI17,Pisa,C174,Castellina Marittima,ARCI,Attivato con convenzione,15,Altra tipolologia,
+ITI,Centro,ITI1,Toscana,ITI17,Pisa,C174,Castellina Marittima,ARCI,Attivato con convenzione,8,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI18,Arezzo,A390,Arezzo,CARITAS,Attivato con convenzione,6,Altra tipologia,canonica
+ITI,Centro,ITI1,Toscana,ITI18,Arezzo,A390,Arezzo,CARITAS,Attivato con convenzione,6,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI18,Arezzo,A851,Bibbiena,CARITAS,Attivato con convenzione,4,Altra tipologia,canonica
+ITI,Centro,ITI1,Toscana,ITI18,Arezzo,C648,Chitignano,CARITAS,Attivato con convenzione,10,Appartamento,
+ITI,Centro,ITI1,Toscana,ITI18,Arezzo,F656,Montevarchi,Comunita' Papa Giovanni XXIII,Attivato con convenzione,15,Altra tipologia,sede Associazione Insieme Verso Nuovi Orizzonti 
+ITI,Centro,ITI1,Toscana,ITI1A,Grosseto,G088,Orbetello,CARITAS,Attivato con convenzione,6,Altra tipologia,Casa di Accoglienza
+ITI,Centro,ITI1,Toscana,ITI1A,Grosseto,G088,Orbetello,CARITAS,Attivato con convenzione,4,Appartamento,
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,C990,Corciano,ARCI,Attivato con convenzione,25,Residence,
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,D653,Foligno,CARITAS,Attivato con convenzione,20,APPARTAMENTO,
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,E256,Gubbio,ARCI,Attivato con convenzione,20,Appartamento,
+ITI,Centro,ITI2,Umbria,ITI21,Perugia,G478,Perugia,ARCI,Attivato con convenzione,50,Appartamento,
+ITI,Centro,ITI2,Umbria,ITI22,Terni,D538,Ferentillo,ARCI,Attivato con convenzione,12,Altra tipolologia,
+ITI,Centro,ITI2,Umbria,ITI22,Terni,I981,Stroncone,ARCI,Attivato con convenzione,15,Altra tipolologia,
+ITI,Centro,ITI2,Umbria,ITI22,Terni,L117,Terni,Comunita' Papa Giovanni XXIII,Attivato con convenzione,6,Appartamento,
+ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,B352,Cagli,CARITAS,Attivato con convenzione,5,Appartamento,
+ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,D488,Fano,CARITAS,Attivato con convenzione,12,Altra tipologia,struttura
+ITI,Centro,ITI3,Marche,ITI31,Pesaro e Urbino,D488,Fano,CARITAS,Attivato con convenzione,6,Appartamento,
+ITI,Centro,ITI3,Marche,ITI32,Ancona,A626,Barbara,CARITAS,Attivato con convenzione,5,Appartamento,
+ITI,Centro,ITI3,Marche,ITI32,Ancona,I608,Senigallia,CARITAS,Attivato con convenzione,10,Appartamento,
+ITI,Centro,ITI3,Marche,ITI32,Ancona,I608,Senigallia,CARITAS,Attivato con convenzione,2,Famiglia,
+ITI,Centro,ITI3,Marche,ITI32,Ancona,I643,Serra de' Conti,CARITAS,Attivato con convenzione,2,Famiglia,
+ITI,Centro,ITI3,Marche,ITI32,Ancona,M318,Trecastelli,CARITAS,Attivato con convenzione,1,Famiglia,
+ITI,Centro,ITI3,Marche,ITI33,Macerata,C770,Civitanova Marche,CARITAS,Attivato con convenzione,6,appartamento,
+ITI,Centro,ITI3,Marche,ITI35,Fermo,D542,Fermo,CARITAS,Attivato con convenzione,8,appartamento,
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,C315,Castiglione in Teverina,Apeiron,Attivato con convenzione,7,Appartamento,
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,C446,Celleno,ARCI,Attivato con convenzione,2,Famiglia,
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,C447,Cellere,ARCI,Attivato con convenzione,7,Appartamento,
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,C447,Cellere,ARCI,Attivato con convenzione,2,Famiglia,
+ITI,Centro,ITI4,Lazio,ITI41,Viterbo,E128,Graffignano,Apeiron,Attivato con convenzione,13,Appartamento,
+ITI,Centro,ITI4,Lazio,ITI42,Rieti,C969,Contigliano,Comunita' Papa Giovanni XXIII,Attivato con convenzione,3,Famiglia,
+ITI,Centro,ITI4,Lazio,ITI43,Roma,F127,Mentana,ARCI,Attivato con convenzione,3,Appartamento,
+ITI,Centro,ITI4,Lazio,ITI43,Roma,F611,Monterotondo,ARCI,Attivato con convenzione,5,Appartamento,
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,ARCI,Attivato con convenzione,189,Famiglia,
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,CARITAS,Attivato con convenzione,61,Altra tipologia,ISTITUTO RELIGIOSO 
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,CARITAS,Attivato con convenzione,29,Altra tipologia,PARROCCHIA
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,CARITAS,Attivato con convenzione,11,Appartamento,Famiglia
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,CARITAS,Attivato con convenzione,4,Appartamento,ISTITUTO RELIGIOSO 
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,GEA Coop Sociale,Attivato con convenzione,6,altra tipologia,Stanze riservate con accesso indipendente all'interno di strttura comunitaria
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,GEA Coop Sociale,Attivato con convenzione,4,appartamento,appartamento
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,GEA Coop Sociale,Attivato con convenzione,3,famiglia ,famiglia
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,Umana solidarieta',Attivato con convenzione,15,Altra tipologia,CENTRO COLLETTIVO
+ITI,Centro,ITI4,Lazio,ITI43,Roma,H501,Roma,Umana solidarieta',Attivato con convenzione,8,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI43,Roma,L611,Vallepietra,Umana solidarieta',Attivato con convenzione,25,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI44,Latina,A707,Bassiano,Apeiron,Attivato con convenzione,15,Altra tipologia,
+ITI,Centro,ITI4,Lazio,ITI44,Latina,E472,Latina,Apeiron,Attivato con convenzione,15,Appartamento,
+ITI,Centro,ITI4,Lazio,ITI44,Latina,E472,Latina,Apeiron,Attivato con convenzione,8,Famiglia,
+ITI,Centro,ITI4,Lazio,ITI44,Latina,H647,Sabaudia,Apeiron,Attivato con convenzione,23,Appartamento,
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,A123,Alatri,Umana solidarieta',Attivato con convenzione,15,Altra tipologia,CENTRO COLLETTIVO
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,A123,Alatri,Umana solidarieta',Attivato con convenzione,15,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,A269,Anagni,Umana solidarieta',Attivato con convenzione,18,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,A720,Boville Ernica,CARITAS,Attivato con convenzione,2,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,C338,Castro dei Volsci,CARITAS,Attivato con convenzione,3,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,C413,Ceccano,CARITAS,Attivato con convenzione,8,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,D810,Frosinone,Comunita' Papa Giovanni XXIII,Attivato con convenzione,15,Altra tipologia,sede Associazione Insieme Verso Nuovi Orizzonti 
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,E236,Guarcino,CARITAS,Attivato con convenzione,10,Altra tipologia,CASA PER FERIE
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,G659,Piglio,Umana solidarieta',Attivato con convenzione,20,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,G749,Pofi,CARITAS,Attivato con convenzione,4,APPARTAMENTO,
+ITI,Centro,ITI4,Lazio,ITI45,Frosinone,L780,Veroli,CARITAS,Attivato con convenzione,21,APPARTAMENTO,
