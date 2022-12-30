@@ -487,18 +487,18 @@
     },
     {
         "date": "2022-05-01",
-        "border_patrol_women": "3881",
-        "border_patrol_men": "928",
-        "border_patrol_minors": "2089",
+        "border_patrol_women": "1372",
+        "border_patrol_men": "642",
+        "border_patrol_minors": "455",
         "railway_police_women": "0",
         "railway_police_men": "0",
         "railway_police_minors": "0"
     },
     {
         "date": "2022-05-03",
-        "border_patrol_women": "-2509",
-        "border_patrol_men": "-286",
-        "border_patrol_minors": "-1634",
+        "border_patrol_women": "0",
+        "border_patrol_men": "0",
+        "border_patrol_minors": "0",
         "railway_police_women": "97",
         "railway_police_men": "58",
         "railway_police_minors": "19"
@@ -1231,5 +1231,14 @@
         "railway_police_women": "0",
         "railway_police_men": "0",
         "railway_police_minors": "0"
+    },
+    {
+        "date": "2022-12-16",
+        "border_patrol_women": "6",
+        "border_patrol_men": "2",
+        "border_patrol_minors": "1",
+        "railway_police_women": "0",
+        "railway_police_men": "0",
+        "railway_police_minors": "1"
     }
 ]
