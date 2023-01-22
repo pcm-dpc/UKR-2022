@@ -1240,5 +1240,23 @@
         "railway_police_women": "0",
         "railway_police_men": "0",
         "railway_police_minors": "1"
+    },
+    {
+        "date": "2023-01-05",
+        "border_patrol_women": "17",
+        "border_patrol_men": "23",
+        "border_patrol_minors": "6",
+        "railway_police_women": "1",
+        "railway_police_men": "2",
+        "railway_police_minors": "0"
+    },
+    {
+        "date": "2023-01-13",
+        "border_patrol_women": "4",
+        "border_patrol_men": "3",
+        "border_patrol_minors": "0",
+        "railway_police_women": "0",
+        "railway_police_men": "0",
+        "railway_police_minors": "0"
     }
 ]
